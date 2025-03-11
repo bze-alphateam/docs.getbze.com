@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Solid Negative@3x.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -18,6 +13,8 @@ layout:
 ---
 
 # 👋 BZE IN COSMOS
+
+<figure><picture><source srcset=".gitbook/assets/Solid Positive@3x.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Solid Negative@3x.png" alt=""></picture><figcaption></figcaption></figure>
 
 ## Overview
 
