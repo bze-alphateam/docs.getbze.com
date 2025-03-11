@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/Solid Negative@3x.jpg
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
   cover:
@@ -8,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -17,20 +18,12 @@ layout:
     visible: true
 ---
 
-# 👋 BZE IN COSMOS
+# Welcome
 
-## Overview
+Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-> BeeZee (BZE) is a community-driven blockchain project that aims to be the foundation for decentralized applications (DApps) and empower users through transparent governance. Focused on building a decentralized ecosystem, BZE fosters innovation, collaboration, and growth.
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-> Leveraging the eco-friendly Proof of Stake (PoS) consensus algorithm, BZE offers high Annual Percentage Rates (APR) for stakers and ensures a greener network. Its Cosmos SDK-based architecture enhances flexibility, allowing seamless integration with various modules and tools.
->
-> BZE enables the creation of community-governed DApps, promoting an open and collaborative environment that avoids the single point of failure in centralized systems. The flagship DApp, CoinTrunk, exemplifies this commitment, providing a trusted platform for discovering and sharing content.
+### Jump right in
 
-With a dedicated development team, BZE continuously evolves to meet the needs of its community. Its decentralized governance structure ensures that every participant has a voice in shaping BZE's future, creating a truly inclusive and resilient ecosystem.
-
-Discover the power of BeeZee and join the movement towards a decentralized future built on trust, transparency, and community collaboration.
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
