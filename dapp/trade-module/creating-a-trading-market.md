@@ -1,16 +1,16 @@
 # Creating a Trading Market
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption><p>The denom fee is 25000 BZE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-11 at 13.18.21.png" alt=""><figcaption><p>The denom fee is 25000 BZE</p></figcaption></figure>
 
 #### Market Coin
 
-The base coin is the first currency listed in a trading pair and is the asset being traded. For example, in the trading pair VDL/BZE, VDL is the base coin. When you create a market or place an order, you are either buying or selling this base coin (VDL) against the quote coin.&#x20;
+The base coin is the first currency listed in a trading pair and is the asset being traded. For example, in the trading pair VDL/BZE, VDL is the base coin. When you create a market or place an order, you are either buying or selling this base coin (VDL) against the quote coin.
 
 Users can select the market coin by clicking the "+ Pick coin" button.
 
 #### Quote Coin
 
-The quote coin is the second currency listed in a trading pair and is used to price the base coin. For instance, in the trading pair VDL/BZE, BZE is the quote coin. The price of the base coin (VDL) is expressed in terms of the quote coin (BZE). In other words, it shows how much of the quote coin is needed to purchase one unit of the base coin.&#x20;
+The quote coin is the second currency listed in a trading pair and is used to price the base coin. For instance, in the trading pair VDL/BZE, BZE is the quote coin. The price of the base coin (VDL) is expressed in terms of the quote coin (BZE). In other words, it shows how much of the quote coin is needed to purchase one unit of the base coin.
 
 **Fee Information**
 
@@ -31,7 +31,7 @@ Here is a breakdown of the components:
 
 #### Market Information
 
-* **Last Price:** The last traded price for TVDL in terms of TBZE&#x20;
+* **Last Price:** The last traded price for TVDL in terms of TBZE
 * **30D Volume:** The total amount to trades made in the last 30 days
 *
 
@@ -71,4 +71,3 @@ This section allows users to place buy orders for TVDL using TBZE.
 This section lists the user's open orders. Currently, no orders are found.
 
 This interface provides users with the ability to view recent trade history, place buy orders, and keep track of their open orders on the DEX for the TVDL/TBZE trading pair.
-

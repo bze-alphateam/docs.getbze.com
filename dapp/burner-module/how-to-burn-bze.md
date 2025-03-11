@@ -10,6 +10,6 @@ Steps to burn BZE using the Burner module :arrow\_down\_small:
 3. Enter amount of BZE you want to burn and then click "Burn".
 4. A transaction will appear in your wallet . Confirm it to "Burn" the coins.
 
-The coins will be added to Burner module and these coins can be burned if community approves using a governance proposal.
+The coins will be added to Burner module, which will burn them once every 4 weeks or via governance proposal.
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>

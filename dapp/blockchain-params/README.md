@@ -4,20 +4,20 @@ icon: file-circle-info
 
 # Blockchain Params
 
-It provides details about the fees and their destinations within the DEX - Tradebin module of the BZE blockchain.&#x20;
+It provides details about the fees and their destinations within the blockchain.
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 Here's a breakdown of each section:
 
-#### Create Market Fee :&#x20;
+#### Create Market Fee :
 
 #### **Fee Amount**: 25,000 BZE
 
-* **Description**:&#x20;
-* Users can create their own market pairs between two denominations.&#x20;
+* **Description**:
+* Users can create their own market pairs between two denominations.
 * The process is permissionless and incurs a fee set by the blockchain.
-* &#x20;Pricing is controlled by the community and can be modified through a governance proposal.
+* Pricing is controlled by the community and can be modified through a governance proposal.
   * The fee is directed to the community pool.
   * Users can suggest a lower fee or request a grant for the fee via Twitter or Discord.
 
@@ -84,12 +84,9 @@ This detailed explanation of the fees and their destinations helps users underst
 **Create Trading Reward Fee**
 
 * **Fee Amount**: 50,000 BZE
-*   **Description**:
-
-    * Users can establish trading reward programs for specific DEX markets of their choice.
-    * Setting up these programs requires a fee payment and the provision of funds to be used as rewards.
-    * Collected fees are directed to the community pool.
-
-
+* **Description**:
+  * Users can establish trading reward programs for specific DEX markets of their choice.
+  * Setting up these programs requires a fee payment and the provision of funds to be used as rewards.
+  * Collected fees are directed to the community pool.
 
 Please move to the next page for overview of the various types of fees.
