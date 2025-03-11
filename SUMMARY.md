@@ -17,6 +17,7 @@
 
 ## 💰 Staking
 
+* [Using Staking Page](staking/using-staking-page.md)
 * [Using ping.pub](staking/using-ping.pub/README.md)
   * [Collecting Staking Rewards](staking/using-ping.pub/collecting-staking-rewards.md)
 * [Using Cointrunk](staking/using-cointrunk.md)
