@@ -12,9 +12,11 @@ layout:
     visible: true
 ---
 
-# White-Label Wallet
+# CoinTrunk
 
-A self-custodial wallet — currently in development — that a project can make entirely its own, shaping it around a single token so it looks and feels like that token's own wallet.
+CoinTrunk is the self-custodial wallet for BeeZee — currently in development — that adapts to the token you use, taking on its branding so it feels like that token's own wallet.
+
+[**Visit CoinTrunk.io →**](https://cointrunk.io)
 
 {% content-ref url="overview.md" %}
 [overview.md](overview.md)

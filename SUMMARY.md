@@ -29,8 +29,8 @@
   * [Overview](apps/communities/overview.md)
 * [BZE Hub](apps/hub/README.md)
   * [Overview](apps/hub/overview.md)
-* [White-Label Wallet](apps/wallet/README.md)
-  * [Overview](apps/wallet/overview.md)
+* [CoinTrunk](apps/cointrunk/README.md)
+  * [Overview](apps/cointrunk/overview.md)
 
 ## 🗄️ Old Docs (Deprecated)
 
