@@ -1,4 +1,4 @@
-# 📎 Vindulum App
+# 📎 Vidulum App
 
 **Vidulum Website:** [**https://vidulum.app/**](https://vidulum.app/)
 

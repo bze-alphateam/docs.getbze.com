@@ -10,7 +10,7 @@ Official link for the DApp : [https://app.getbze.com/](https://app.getbze.com/) 
 
 DApps enhance our blockchain with several capabilities from the v7 release in an intuitive user interface.
 
-Some of the major features include ability to create tokens, burner module , trade module with ability to create DEX pairs and moree.
+Some of the major features include ability to create tokens, burner module , trade module with ability to create DEX pairs and more.
 
 As soon as you open the Dapp you will land on this page
 

@@ -6,7 +6,7 @@ icon: industry-windows
 
 As the name suggests, token factory means to create tokens, i.e., cryptocurrency, on the BZE chain. Anyone can easily create their own crypto by using this module.&#x20;
 
-We have the it very easy to create tokens on BeeZee that anyone with very little or no technical background can easily create their own tokens.
+We have made it very easy to create tokens on BeeZee that anyone with very little or no technical background can easily create their own tokens.
 
 When you click token factory, you will be led to this page, like this below.
 
@@ -27,7 +27,7 @@ We understand this struggle, as we too lack millions of dollars and are therefor
 However, on our platform, getting verified is simple, easy, and not frustrating.
 
 {% hint style="info" %}
-Verification can status can updated by contacting BeeZee team.
+Verification status can be updated by contacting BeeZee team.
 {% endhint %}
 
 **Token Factory (right panel)**:

@@ -6,6 +6,6 @@ Official Link :arrow\_down\_small:
 
 Please refer to the page below to learn how to buy BZE on DEX and explore other features of the DApp.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../dapp/introduction.md" %}
+[introduction.md](../dapp/introduction.md)
 {% endcontent-ref %}

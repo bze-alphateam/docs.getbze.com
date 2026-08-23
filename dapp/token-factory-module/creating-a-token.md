@@ -8,7 +8,7 @@ Step 1 : Click on "Create Token" on the left side of the page.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="241"><figcaption><p>you will be prompted to enter tokens denomination</p></figcaption></figure>
 
-Step 2: Confirm the transaction in you wallet after entering the denomination&#x20;
+Step 2: Confirm the transaction in your wallet after entering the denomination&#x20;
 
 {% hint style="info" %}
 The denomination entered cannot be changed after creating the token.
@@ -32,7 +32,7 @@ Step 3 : The page below will be presented to you; let's go over each function on
 
 The details mentioned above are very basic, but they are crucial to enter because they contain information that all users who are interested in the token will see. Therefore, it is crucial that you fill them out accurately.
 
-**You can use the edit but to enter the details mentioned above.**
+**You can use the edit button to enter the details mentioned above.**
 
 ***
 

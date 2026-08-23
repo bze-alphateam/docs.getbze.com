@@ -8,11 +8,11 @@ By click on "Add Staking Rewards" button you will be prompted to enter the rewar
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-Daily Reward : As the name suggest the Daily Rewards for pool, following the above example we choose VDL as the reward coin.
+Daily Reward : As the name suggests, the daily rewards for the pool, following the above example we choose VDL as the reward coin.
 
-Reward Duration : The no of days the pools will be live for
+Reward Duration : The number of days the pool will be live for
 
-Staking coin : According the example we choose staking coin as BZE , and also you can also define the minimun stake for pool
+Staking coin : According to the example we choose staking coin as BZE , and also you can also define the minimum stake for pool
 
 Unstake lock : An input field where the user can specify the number of days the staked amount will be locked before it can be unstaked.
 
