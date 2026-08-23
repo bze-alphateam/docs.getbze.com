@@ -1,6 +1,6 @@
 # Creating a Trading Market
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-03-11 at 13.18.21.png" alt=""><figcaption><p>The denom fee is 25000 BZE</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-03-11 at 13.18.21.png" alt=""><figcaption><p>The denom fee is 25000 BZE</p></figcaption></figure>
 
 #### Market Coin
 
@@ -25,7 +25,7 @@ After selection of tokens and clicking create you will need to confirm a transac
 
 As you can see we have created a Test DEX market : TVDL(market coin) and TBZE (Quote coin)
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 Here is a breakdown of the components:
 
@@ -49,7 +49,7 @@ The order book lists the current buy and sell orders for TVDL:
 
 Users can select different time periods (1H, 1D, 7D, 30D) to view the price trend over those intervals.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 #### Trade History
 

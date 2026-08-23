@@ -8,7 +8,7 @@ Crypto governance ensures decentralized decision-making, community engagement, a
 
 When you choose governance tab you will encounter this page -> Let's go step by step to understand each every aspect of the page.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 **Tabs**:
 

@@ -6,7 +6,7 @@ icon: file-circle-info
 
 It provides details about the fees and their destinations within the blockchain.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 Here's a breakdown of each section:
 
@@ -59,7 +59,7 @@ Here's a breakdown of each section:
 
 This detailed explanation of the fees and their destinations helps users understand the financial dynamics within the DEX - Tradebin module and the community's role in governance and decision-making.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 #### Token Factory
 

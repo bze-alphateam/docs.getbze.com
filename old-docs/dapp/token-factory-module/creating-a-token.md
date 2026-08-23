@@ -6,7 +6,7 @@ description: Learn about how to create a token on BZE blockchain
 
 Step 1 : Click on "Create Token" on the left side of the page.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="241"><figcaption><p>you will be prompted to enter tokens denomination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt="" width="241"><figcaption><p>you will be prompted to enter tokens denomination</p></figcaption></figure>
 
 Step 2: Confirm the transaction in your wallet after entering the denomination&#x20;
 
@@ -16,7 +16,7 @@ The denomination entered cannot be changed after creating the token.
 
 Step 3 : The page below will be presented to you; let's go over each function one by one.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 #### Metadata Section
 

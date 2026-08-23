@@ -6,7 +6,7 @@ For example, someone creating a staking reward chooses BZE as the coins for the 
 
 By click on "Add Staking Rewards" button you will be prompted to enter the rewards details.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Daily Reward : As the name suggests, the daily rewards for the pool, following the above example we choose VDL as the reward coin.
 

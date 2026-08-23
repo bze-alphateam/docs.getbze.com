@@ -6,7 +6,7 @@ icon: money-bill-trend-up
 
 It gives users seamless access to trade tokens across BZE chain with the liquidity pairs available.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-28 131601.png" alt=""><figcaption><p>The pairs will not exist on the DApp as these are for the testing purposes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-28 131601.png" alt=""><figcaption><p>The pairs will not exist on the DApp as these are for the testing purposes</p></figcaption></figure>
 
 **Markets List**
 

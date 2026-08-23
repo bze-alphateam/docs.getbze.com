@@ -36,7 +36,7 @@ Always check the lock period of your coins to know when you can withdraw them at
 
 Look at the image for a example :
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 You will need to stake TBZE to earn TBZE, and the reward frequency is daily. It means that you will get a part of the reward daily, depending on the amount of coins staked.
 

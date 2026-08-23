@@ -6,7 +6,7 @@ icon: sack-dollar
 
 This tab can be used for creating and managing crypto rewards, specifically staking and trading rewards.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Tabs**:
 

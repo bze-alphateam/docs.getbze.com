@@ -6,7 +6,7 @@ Users can navigate to the Burner module to quickly check if a raffle is open.
 
 In the image below, you can see a raffle is currently open with a prize pool exceeding 100k BZE.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 You can also see all the other major and minor details like
 
@@ -26,14 +26,14 @@ All raffles have a set end date. When a raffle ends, the remaining pot is burned
 1. Visit the burner module and connect your wallet
 2. Click on "Try your luck" Option :arrow\_down\_small:
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 Afterward, your wallet will ask you to approve the transaction. Once approved, the ticket price (25 BZE in this case) will be deducted from your wallet.
 
 As you can see you have to wait for 8-15 sec while the blockchain decides if you are a winner.
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 Unfortunately, I didn’t win this time, as you can see from the image.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
