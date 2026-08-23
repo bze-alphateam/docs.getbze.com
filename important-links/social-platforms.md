@@ -14,7 +14,7 @@ Official Publish0X : [https://www.publish0x.com/bze-in-cosmos](https://www.publi
 
 Official Reddit : [https://www.reddit.com/r/getbze/](https://www.reddit.com/r/getbze/)
 
-Official Discord : [https://discord.gg/qySR7zMf](https://discord.gg/qySR7zMf)
+Official Discord : [https://discord.gg/wb68JV3QhZ](https://discord.gg/wb68JV3QhZ)
 
 {% hint style="warning" %}
 For your online safety, always use the official URLs when interacting with BZE and BZE products.

@@ -12,5 +12,5 @@ MAINNET
 
 {% embed url="https://explorer.getbze.com/" %}
 
-{% embed url="https://explorer.sopko.net/beezee" %}
+{% embed url="https://staking-explorer.com/explorer/beezee" %}
 
