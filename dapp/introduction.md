@@ -6,8 +6,8 @@ icon: arrow-right-to-arc
 
 The BZE DApp is split into dedicated apps, one per feature. Official links:
 
-* DEX / Trade Module: [https://dex.getbze.com/](https://dex.getbze.com/)
-* Staking / Earn Module: [https://staking.getbze.com/](https://staking.getbze.com/)
+* DEX / Trade Module & Earn Module (staking pools): [https://dex.getbze.com/](https://dex.getbze.com/)
+* BZE Staking (delegate BZE to validators): [https://staking.getbze.com/](https://staking.getbze.com/)
 * Burner Module: [https://burner.getbze.com/](https://burner.getbze.com/)
 * Token Factory: [https://factory.getbze.com/](https://factory.getbze.com/)
 * Communities: [https://communities.getbze.com/](https://communities.getbze.com/)
