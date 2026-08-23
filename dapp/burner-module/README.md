@@ -12,7 +12,7 @@ The burning of BZE is also supported by various methods that have been incorpora
 
 1. Market Buy Back: We plan to buy back BZE on a monthly basis and use it to fund the burning module. The amount will range from a few dollars to several hundred dollars, depending on our operating expenses and income . These trades will be made gradually throughout the month to avoid having a significant impact on prices or giving arbitrage traders an advantage.
 2. Trading Fees: Fees collected on Trade Module that is collected from users is sent to the burner module. &#x20;
-3. 3\. Community pool: Funds for this pool come from various taxes collected by the blockchain for using different features, such as market pair creation, token creation, staking rewards, and trading rewards.&#x20;
+3. Community pool: Funds for this pool come from various taxes collected by the blockchain for using different features, such as market pair creation, token creation, staking rewards, and trading rewards.&#x20;
 
 You can check out fees of trade module and others features below :arrow\_down\_small:
 

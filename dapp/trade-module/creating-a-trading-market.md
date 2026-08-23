@@ -14,16 +14,16 @@ The quote coin is the second currency listed in a trading pair and is used to pr
 
 **Fee Information**
 
-* **Create Denom Fee :** A fee of 2500 BZE is required to create the market.
+* **Create Market Fee :** A fee of 25,000 BZE is required to create the market.
 
 **Action Buttons**
 
 * **Cancel :** Cancels the process of creating a market.
 * **Create :** Initiates the creation of the market with the selected market and quote coins, upon payment of the 25000 BZE fee.
 
-After selection of tokens and clicking create you will need to confirm a transaction in you wallet to complete the process.
+After selection of tokens and clicking create you will need to confirm a transaction in your wallet to complete the process.
 
-As you can see we have created a Test DEX market : TVDL(market coin) and TBZE(Quota coin)
+As you can see we have created a Test DEX market : TVDL(market coin) and TBZE (Quote coin)
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ Here is a breakdown of the components:
 #### Market Information
 
 * **Last Price:** The last traded price for TVDL in terms of TBZE
-* **30D Volume:** The total amount to trades made in the last 30 days
+* **30D Volume:** The total amount of trades made in the last 30 days
 *
 
 #### Order Book

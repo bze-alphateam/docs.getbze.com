@@ -7,7 +7,7 @@
 * [📪 Keplr](wallets/keplr/README.md)
   * [Add BZE to Keplr](wallets/keplr/add-bze-to-keplr.md)
 * [😁 Cointrunk](wallets/cointrunk.md)
-* [📎 Vindulum App](wallets/vindulum-app.md)
+* [📎 Vidulum App](wallets/vindulum-app.md)
 
 ## 📈 TRADE/BUY BZE
 
