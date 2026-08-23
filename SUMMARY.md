@@ -2,6 +2,14 @@
 
 * [👋 BZE IN COSMOS](README.md)
 * [Overview](overview/README.md)
+  * [Getting Started](overview/getting-started.md)
+  * [Features](overview/features/README.md)
+    * [Create Your Own Token](overview/features/creating-tokens.md)
+    * [Trade on the DEX](overview/features/trading.md)
+    * [Earn Rewards](overview/features/earning-rewards.md)
+    * [Token Burning](overview/features/token-burning.md)
+    * [Decentralized News](overview/features/decentralized-news.md)
+    * [Cross-Chain Transfers](overview/features/cross-chain-transfers.md)
 
 ## 🗄️ Old Docs (Deprecated)
 

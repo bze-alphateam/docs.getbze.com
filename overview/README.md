@@ -28,18 +28,22 @@ The aim is an ecosystem where decentralized solutions are approachable — where
 * **Fast and low-cost** — quick transactions and small fees, suited to everyday use.
 * **Interoperable** — BZE and the tokens created on it can move to and from other blockchains.
 
-## What you can do with BZE
+## The $BZE coin
 
-The ecosystem is a set of simple apps, each covered in its own section of these docs:
+$BZE is the coin that powers the whole network: it pays transaction fees, secures the chain through staking, and gives holders a vote in governance. Its maximum supply is capped, a large share is locked in staking to keep the network secure, a community pool funds future development through governance, and part of the fees collected across the ecosystem is regularly burned to reduce supply over time.
 
-* **Trade** on the native decentralized exchange.
-* **Stake** your BZE to help secure the network and earn rewards.
-* **Create tokens** with the Token Factory — no coding required.
-* **Burn** tokens and take part in community burn events.
-* **Govern** the network by proposing and voting on changes.
+For the current circulating, total and maximum supply — along with the live staking APR — see the [BeeZee website](https://getbze.com).
 
-The sections that follow walk through each of these, step by step.
+## Stay up to date
 
-{% hint style="info" %}
-Looking for live figures? The current **staking APR**, block time, and full **token supply** breakdown are always kept up to date on the [BeeZee website](https://getbze.com).
-{% endhint %}
+The [BeeZee website](https://getbze.com) is the home for the project's general details and the up-to-date roadmap. For news and announcements, follow along on [Medium](https://medium.com/@bzedge) and [X (Twitter)](https://x.com/BZEdgeCoin) — that's where we post regularly.
+
+## Where to go next
+
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
+
+{% content-ref url="features/README.md" %}
+[features](features/README.md)
+{% endcontent-ref %}
