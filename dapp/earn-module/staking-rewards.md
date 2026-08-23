@@ -45,7 +45,7 @@ You can also see the lock time, which is 3 days.
 **How Do You Get Started?**
 
 1. You can use our Dapp to stake your tokens or coins in various pools that are available.
-2. Head over to [https://app.getbze.com/earn](https://app.getbze.com/earn).
+2. Head over to [https://dex.getbze.com/staking](https://dex.getbze.com/staking).
 3. Choose the staking pool you want to be a part of and the amount of coins you want to stake.
 4. Use the stake button to enter the amount of coins, and then confirm by verifying the transaction in your wallet.
 
