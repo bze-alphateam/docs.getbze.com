@@ -27,6 +27,10 @@
   * [Overview](apps/token-factory/overview.md)
 * [Communities](apps/communities/README.md)
   * [Overview](apps/communities/overview.md)
+* [BZE Hub](apps/hub/README.md)
+  * [Overview](apps/hub/overview.md)
+* [White-Label Wallet](apps/wallet/README.md)
+  * [Overview](apps/wallet/overview.md)
 
 ## 🗄️ Old Docs (Deprecated)
 
