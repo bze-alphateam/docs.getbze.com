@@ -14,6 +14,7 @@
     * [Building Communities](overview/features/building-communities.md)
     * [Any Token as a Fee Token](overview/features/fee-token.md)
     * [Simple Solutions](overview/features/simple-solutions.md)
+  * [CoinTrunk Project](overview/cointrunk.md)
 
 ## Our Apps
 
@@ -29,8 +30,8 @@
   * [Overview](apps/communities/overview.md)
 * [BZE Hub](apps/hub/README.md)
   * [Overview](apps/hub/overview.md)
-* [CoinTrunk](apps/cointrunk/README.md)
-  * [Overview](apps/cointrunk/overview.md)
+* [CoinTrunk Extension](apps/cointrunk-extension/README.md)
+  * [Overview](apps/cointrunk-extension/overview.md)
 
 ## 🗄️ Old Docs (Deprecated)
 

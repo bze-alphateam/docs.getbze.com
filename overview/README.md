@@ -47,3 +47,7 @@ The [BeeZee website](https://getbze.com) is the home for the project's general d
 {% content-ref url="features/README.md" %}
 [features](features/README.md)
 {% endcontent-ref %}
+
+{% content-ref url="cointrunk.md" %}
+[cointrunk.md](cointrunk.md)
+{% endcontent-ref %}
