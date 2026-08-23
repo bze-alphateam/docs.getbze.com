@@ -24,6 +24,6 @@ The CoinTrunk Extension is still in development. Availability and features will 
 
 It is one of the tools built by the CoinTrunk project:
 
-{% content-ref url="../../overview/cointrunk.md" %}
-[cointrunk.md](../../overview/cointrunk.md)
+{% content-ref url="../../overview/cointrunk/README.md" %}
+[cointrunk.md](../../overview/cointrunk/README.md)
 {% endcontent-ref %}

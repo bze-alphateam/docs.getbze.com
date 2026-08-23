@@ -9,12 +9,12 @@
     * [Create Your Own Token](overview/features/creating-tokens.md)
     * [Earn Rewards](overview/features/earning-rewards.md)
     * [Burning Tokens](overview/features/token-burning.md)
-    * [Decentralized Content Sharing](overview/features/decentralized-content-sharing.md)
     * [Cross-Chain Transfers](overview/features/cross-chain-transfers.md)
     * [Building Communities](overview/features/building-communities.md)
     * [Any Token as a Fee Token](overview/features/fee-token.md)
     * [Simple Solutions](overview/features/simple-solutions.md)
-  * [CoinTrunk Project](overview/cointrunk.md)
+  * [CoinTrunk Project](overview/cointrunk/README.md)
+    * [Decentralized Content Sharing](overview/cointrunk/decentralized-content-sharing.md)
 
 ## Our Apps
 

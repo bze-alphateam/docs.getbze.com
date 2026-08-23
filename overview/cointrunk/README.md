@@ -24,10 +24,10 @@ CoinTrunk's tools include:
 
 More tools are on the way. You can learn more at [cointrunk.io](https://cointrunk.io).
 
-{% content-ref url="../apps/cointrunk-extension/README.md" %}
-[README.md](../apps/cointrunk-extension/README.md)
+{% content-ref url="decentralized-content-sharing.md" %}
+[decentralized-content-sharing.md](decentralized-content-sharing.md)
 {% endcontent-ref %}
 
-{% content-ref url="features/decentralized-content-sharing.md" %}
-[decentralized-content-sharing.md](features/decentralized-content-sharing.md)
+{% content-ref url="../../apps/cointrunk-extension/README.md" %}
+[README.md](../../apps/cointrunk-extension/README.md)
 {% endcontent-ref %}
