@@ -14,4 +14,4 @@ layout:
 
 # Cross-Chain Transfers
 
-BeeZee is connected to a wider network of blockchains, so BZE and any token created on it can be sent to and from other connected chains. This lets you move your assets freely to take advantage of what other networks offer — securely, and without asking anyone's permission.
+Move BZE and the tokens created on BeeZee to and from other connected blockchains, freely and without asking permission. We are continuously working on new cross-chain connections, so the list of chains you can reach will keep expanding well beyond what is available today.

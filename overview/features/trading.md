@@ -12,6 +12,11 @@ layout:
     visible: true
 ---
 
-# Trade on the DEX
+# Trading
 
-BeeZee has its own decentralized exchange where you can trade coins and tokens directly from your wallet, with no middleman holding your funds. Anyone can open a market for any token, and fees are kept low. Because trades are matched openly on the blockchain, you always keep custody of your assets.
+Trade coins and tokens directly from your wallet, your way. BeeZee gives you the choice of two trading styles:
+
+* **Liquidity pools (AMM)** — swap instantly against a pool of assets, ideal for quick and simple trades.
+* **Order-book markets** — place buy and sell orders at the price you want, for more precise trading.
+
+Anyone can create a pool or a market for any token, and fees are kept low. Because everything settles on the blockchain, you always keep custody of your assets.

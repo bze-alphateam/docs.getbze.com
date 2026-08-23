@@ -14,4 +14,4 @@ layout:
 
 # Earn Rewards
 
-There are several ways to earn on BeeZee. You can stake your BZE to help secure the network and receive staking rewards, lock your coins into reward programs, or trade in markets that offer trading rewards. Project owners can even set up their own reward programs to engage their community — choosing which coins to accept and which to pay out.
+There is more than one way to earn on BeeZee. Beyond taking part in governance and staking your BZE, you can explore the opportunities created by others across the ecosystem — joining the staking programs of other tokens to earn their rewards. The apps make it easy to browse the available programs and pick the ones that suit you.
