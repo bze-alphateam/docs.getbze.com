@@ -2,7 +2,7 @@
 
 Steps to burn BZE using the Burner module :arrow\_down\_small:
 
-1. Go to [https://app.getbze.com/burner](https://app.getbze.com/burner).
+1. Go to [https://burner.getbze.com/](https://burner.getbze.com/).
 2. Click on "Fund Burner".
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>This will appear after clicking "Fund Burner"</p></figcaption></figure>
