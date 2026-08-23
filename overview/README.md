@@ -22,13 +22,11 @@ BZE is built and governed by its community. There is no central gatekeeper: toke
 
 The aim is an ecosystem where decentralized solutions are approachable — where creating a token, trading it, or earning staking rewards takes a few clicks instead of technical expertise.
 
-## Built on proven technology
+## Simple by design
 
-BZE is a Proof-of-Stake blockchain built with the Cosmos SDK. That foundation gives it:
-
-* **An eco-friendly network** — Proof of Stake secures the chain without energy-hungry mining.
-* **Fast, low-cost transactions** — quick finality and small fees suited to everyday use.
-* **Interoperability** — as part of the Cosmos ecosystem, BZE can connect and move assets across other chains.
+* **Eco-friendly** — a Proof-of-Stake network that secures the chain without energy-hungry mining.
+* **Fast and low-cost** — quick transactions and small fees, suited to everyday use.
+* **Interoperable** — BZE and the tokens created on it can move to and from other blockchains.
 
 ## What you can do with BZE
 
@@ -41,3 +39,7 @@ The ecosystem is a set of simple apps, each covered in its own section of these 
 * **Govern** the network by proposing and voting on changes.
 
 The sections that follow walk through each of these, step by step.
+
+{% hint style="info" %}
+Looking for live figures? The current **staking APR**, block time, and full **token supply** breakdown are always kept up to date on the [BeeZee website](https://getbze.com).
+{% endhint %}
