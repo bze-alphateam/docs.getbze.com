@@ -14,6 +14,20 @@
     * [Building Communities](overview/features/building-communities.md)
     * [Any Token as a Fee Token](overview/features/fee-token.md)
     * [Simple Solutions](overview/features/simple-solutions.md)
+
+## Our Apps
+
+* [DEX](apps/dex/README.md)
+  * [Overview](apps/dex/overview.md)
+* [Staking](apps/staking/README.md)
+  * [Overview](apps/staking/overview.md)
+* [Burner](apps/burner/README.md)
+  * [Overview](apps/burner/overview.md)
+* [Token Factory](apps/token-factory/README.md)
+  * [Overview](apps/token-factory/overview.md)
+* [Communities](apps/communities/README.md)
+  * [Overview](apps/communities/overview.md)
+
 ## 🗄️ Old Docs (Deprecated)
 
 * [Old Documentation](old-docs/README.md)
