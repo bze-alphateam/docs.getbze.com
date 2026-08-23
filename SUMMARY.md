@@ -1,51 +1,65 @@
 # Table of contents
 
 * [👋 BZE IN COSMOS](README.md)
+* [Overview](overview/README.md)
+  * [Getting Started](overview/getting-started.md)
+  * [Features](overview/features/README.md)
+    * [Stake BZE](overview/features/stake-bze.md)
+    * [Trading](overview/features/trading.md)
+    * [Create Your Own Token](overview/features/creating-tokens.md)
+    * [Earn Rewards](overview/features/earning-rewards.md)
+    * [Burning Tokens](overview/features/token-burning.md)
+    * [Cross-Chain Transfers](overview/features/cross-chain-transfers.md)
+    * [Building Communities](overview/features/building-communities.md)
+    * [Any Token as a Fee Token](overview/features/fee-token.md)
+    * [Simple Solutions](overview/features/simple-solutions.md)
+  * [CoinTrunk Project](overview/cointrunk/README.md)
+    * [Decentralized Content Sharing](overview/cointrunk/decentralized-content-sharing.md)
 
-## Wallets
+## Our Apps
 
-* [📪 Keplr](wallets/keplr/README.md)
-  * [Add BZE to Keplr](wallets/keplr/add-bze-to-keplr.md)
-* [😁 Cointrunk](wallets/cointrunk.md)
-* [📎 Vidulum App](wallets/vindulum-app.md)
+* [DEX](apps/dex/README.md)
+  * [Overview](apps/dex/overview.md)
+* [Staking](apps/staking/README.md)
+  * [Overview](apps/staking/overview.md)
+* [Burner](apps/burner/README.md)
+  * [Overview](apps/burner/overview.md)
+* [Token Factory](apps/token-factory/README.md)
+  * [Overview](apps/token-factory/overview.md)
+* [Communities](apps/communities/README.md)
+  * [Overview](apps/communities/overview.md)
+* [BZE Hub](apps/hub/README.md)
+  * [Overview](apps/hub/overview.md)
+* [CoinTrunk Extension](apps/cointrunk-extension/README.md)
+  * [Overview](apps/cointrunk-extension/overview.md)
 
-## 📈 TRADE/BUY BZE
+## 🗄️ Old Docs (Deprecated)
 
-* [🛠️ Osmosis](trade-buy-bze/osmosis.md)
-* [💱 BZE DAPP](trade-buy-bze/bze-dapp.md)
-* [Skip.go](trade-buy-bze/skip.go.md)
-
-## 💰 Staking
-
-* [Using Staking Page](staking/using-staking-page.md)
-* [Using ping.pub](staking/using-ping.pub/README.md)
-  * [Collecting Staking Rewards](staking/using-ping.pub/collecting-staking-rewards.md)
-* [Using Cointrunk](staking/using-cointrunk.md)
-* [Liquidity Pools](staking/liquidity-pools.md)
-
-## 🔔 Governance
-
-* [Proposals / Voting](governance/proposals-voting.md)
-
-## DApp
-
-* [Introduction](dapp/introduction.md)
-* [Token Factory Module](dapp/token-factory-module/README.md)
-  * [Creating a Token](dapp/token-factory-module/creating-a-token.md)
-* [Earn Module](dapp/earn-module/README.md)
-  * [Staking Rewards](dapp/earn-module/staking-rewards.md)
-  * [How to create staking Rewards](dapp/earn-module/how-to-create-staking-rewards.md)
-* [Burner Module](dapp/burner-module/README.md)
-  * [How to Burn BZE ?](dapp/burner-module/how-to-burn-bze.md)
-  * [Burning Raffle](dapp/burner-module/burning-raffle.md)
-* [Blockchain Params](dapp/blockchain-params/README.md)
-  * [BZE DAPP/Blockchain Fees Overview](dapp/blockchain-params/bze-dapp-blockchain-fees-overview.md)
-* [Trade Module](dapp/trade-module/README.md)
-  * [Creating a Trading Market](dapp/trade-module/creating-a-trading-market.md)
-  * [Trading Fee Mechanism on DEX](dapp/trade-module/trading-fee-mechanism-on-dex.md)
-
-## 💻 Important Links
-
-* [Social Platforms](important-links/social-platforms.md)
-* [Explorers](important-links/explorers.md)
-* [Resources](important-links/resources.md)
+* [Old Documentation](old-docs/README.md)
+  * [📪 Keplr](old-docs/wallets/keplr/README.md)
+    * [Add BZE to Keplr](old-docs/wallets/keplr/add-bze-to-keplr.md)
+  * [😁 Cointrunk](old-docs/wallets/cointrunk.md)
+  * [📎 Vidulum App](old-docs/wallets/vindulum-app.md)
+  * [🛠️ Osmosis](old-docs/trade-buy-bze/osmosis.md)
+  * [💱 BZE DAPP](old-docs/trade-buy-bze/bze-dapp.md)
+  * [Skip.go](old-docs/trade-buy-bze/skip.go.md)
+  * [Using Staking Page](old-docs/staking/using-staking-page.md)
+  * [Using ping.pub](old-docs/staking/using-ping.pub/README.md)
+    * [Collecting Staking Rewards](old-docs/staking/using-ping.pub/collecting-staking-rewards.md)
+  * [Using Cointrunk](old-docs/staking/using-cointrunk.md)
+  * [Liquidity Pools](old-docs/staking/liquidity-pools.md)
+  * [Proposals / Voting](old-docs/governance/proposals-voting.md)
+  * [Introduction](old-docs/dapp/introduction.md)
+  * [Token Factory Module](old-docs/dapp/token-factory-module/README.md)
+    * [Creating a Token](old-docs/dapp/token-factory-module/creating-a-token.md)
+  * [Earn Module](old-docs/dapp/earn-module/README.md)
+    * [Staking Rewards](old-docs/dapp/earn-module/staking-rewards.md)
+    * [How to create staking Rewards](old-docs/dapp/earn-module/how-to-create-staking-rewards.md)
+  * [Burner Module](old-docs/dapp/burner-module/README.md)
+    * [How to Burn BZE ?](old-docs/dapp/burner-module/how-to-burn-bze.md)
+    * [Burning Raffle](old-docs/dapp/burner-module/burning-raffle.md)
+  * [Blockchain Params](old-docs/dapp/blockchain-params/README.md)
+    * [BZE DAPP/Blockchain Fees Overview](old-docs/dapp/blockchain-params/bze-dapp-blockchain-fees-overview.md)
+  * [Trade Module](old-docs/dapp/trade-module/README.md)
+    * [Creating a Trading Market](old-docs/dapp/trade-module/creating-a-trading-market.md)
+    * [Trading Fee Mechanism on DEX](old-docs/dapp/trade-module/trading-fee-mechanism-on-dex.md)
