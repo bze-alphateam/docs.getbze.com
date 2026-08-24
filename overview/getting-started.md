@@ -24,7 +24,9 @@ Step-by-step instructions for installing Keplr and adding BZE are covered in the
 
 ## 2. Get some BZE
 
-You will need a small amount of BZE to pay the network's low transaction fees. You can acquire BZE through the BeeZee apps and supported exchanges.
+You will need a small amount of BZE to pay the network's low transaction fees.
+
+The easiest way is right inside our apps: open the wallet panel in any BeeZee dApp and use **Buy BZE**. Pick an asset you already hold on another network — connecting MetaMask, Keplr, or whatever wallet you use there — and it is swapped to BZE for you in minutes. You can also buy BZE on supported exchanges.
 
 ## 3. Explore the apps
 
