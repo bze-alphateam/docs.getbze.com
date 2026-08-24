@@ -27,6 +27,7 @@ The aim is an ecosystem where decentralized solutions are approachable — where
 * **Eco-friendly** — a Proof-of-Stake network that secures the chain without energy-hungry mining.
 * **Fast and low-cost** — quick transactions and small fees, suited to everyday use.
 * **Interoperable** — BZE and the tokens created on it can move to and from other blockchains.
+* **Built for any token** — a project can run on BeeZee using its own token for everyday fees, so its app can feel like it has a blockchain of its own.
 
 ## The $BZE coin
 
