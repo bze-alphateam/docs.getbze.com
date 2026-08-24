@@ -23,7 +23,7 @@ BeeZee brings together everything you need to use, create, and grow — all in o
 5. [**Token Burning**](token-burning.md) — take part in regular, community-driven coin burns.
 6. [**Cross-Chain Transfers**](cross-chain-transfers.md) — move your assets between connected blockchains.
 7. [**Building Communities**](building-communities.md) — everything a project needs to run its own token.
-8. [**Any Token as a Fee Token**](fee-token.md) — let users pay fees in your token, not BZE.
+8. [**Any Token as a Fee Token**](fee-token.md) — let users pay fees in your token instead of BZE, whether it was created here or bridged in.
 9. [**Simple Solutions**](simple-solutions.md) — ready-made apps you can make your own.
 
 ## More on the way

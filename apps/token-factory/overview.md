@@ -16,7 +16,7 @@ layout:
 
 Token Factory lets anyone create their own token in seconds and manage it over time. Once your token exists, you can grow a community around it — setting up staking programs, rewarding and airdropping your holders, and reaching the people who already support other projects.
 
-Your token works everywhere on BeeZee: it can be traded on the DEX and sent to other blockchains.
+Your token works everywhere on BeeZee: it can be traded on the DEX, sent to other blockchains, and — once it has a liquidity pool with BZE — even used to pay the network's fees.
 
 {% content-ref url="../../overview/features/creating-tokens.md" %}
 [creating-tokens.md](../../overview/features/creating-tokens.md)
