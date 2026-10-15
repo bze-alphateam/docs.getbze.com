@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 BZE IN COSMOS](README.md)
+* [👋 Welcome to BeeZee](README.md)
 * [Overview](overview/README.md)
   * [Getting Started](overview/getting-started.md)
   * [Features](overview/features/README.md)
