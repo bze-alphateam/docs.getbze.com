@@ -14,7 +14,7 @@ layout:
 
 # DEX
 
-The BeeZee DEX is the app for trading on BeeZee — swapping through liquidity pools, trading on order-book markets, and earning from reward programs, all directly from your wallet.
+The BeeZee DEX is the app for trading on BeeZee: swapping through liquidity pools, trading on order-book markets, providing liquidity, earning from staking and holder rewards, and looking up any token before you buy it, all directly from your wallet.
 
 [**Open the DEX →**](https://dex.getbze.com/)
 
