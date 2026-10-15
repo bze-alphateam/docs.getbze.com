@@ -14,54 +14,60 @@ layout:
 
 # Creating a Token
 
-Creating your own token takes a few minutes and no coding. Open the **Create** tab in Token Factory and a guided wizard walks you through four short steps — you can move back and forth before anything is final.
+Creating your own token takes a few minutes and no coding. On the Token Factory home, pick **Create my token**. The form asks one question at a time, and everything is shown before you sign.
 
-## The four steps
+## The three questions
 
-### 1. Identity
+### 1. Name and ticker
 
-Give your token a **name** (the full, human-friendly name) and a **symbol** — the short ticker people will see everywhere, like $PAGE or $GUILD. Pick something clear and memorable; this is how your token shows up on the DEX, in wallets, and in every app.
+Give your token a **name**, the full, friendly name (2 to 64 characters), and a **ticker**, the short symbol people see everywhere, like $PAGE or $GUILD (3 to 12 letters and digits, starting with a letter).
 
-Behind the scenes, BeeZee also assigns your token a unique ID automatically so it can never clash with anyone else's. You don't need to think about it — it's just there to keep your token one-of-a-kind.
+BeeZee gives your token a unique **token ID** made from your address and the ticker, so it can never clash with anyone else's. The app shows it as you type. If you already created a token with the same ticker, it asks you to pick another one.
 
-### 2. Metadata
+Every token on BeeZee uses the same **6 decimals**, so there is nothing to set: a shared standard keeps tokens consistent across all the apps.
 
-Add an optional **description** — a sentence or two about what your token is for. It's a nice touch that helps people understand your project at a glance, but you can leave it blank and add it later.
+### 2. Describe it (optional)
 
-### 3. Supply & Admin
+A sentence or two about what your token is for, up to 512 characters. Wallets show it. You can **Skip** it and add it later from your token's page.
 
-Choose your **initial supply** — how many tokens to create at launch. This whole amount is minted straight to your wallet, so you start holding everything and can distribute it however you like.
+### 3. How many to create?
 
-The number of **decimals** is fixed at the BeeZee standard, the same for every token on the network. That's on purpose: a shared standard keeps tokens consistent and predictable across all the apps, so it isn't something you set.
+Choose the **amount** to create, or use one of the presets (100,000 / 1 million / 100 million / 1 billion). All of it goes to your wallet when the token is created; you decide later how much to sell, put in a pool or give away.
 
-This step also holds the one big decision — your **admin** choice — covered on its own below.
+## Review and create
 
-### 4. Review
+On the side, a **Preview** shows your token as people will see it, and **You will pay** shows the token creation fee. The fee is set by the network and can change through governance, so the app reads the current amount for you (you can also check it on a [block explorer](https://explorer.getbze.com/)).
 
-A final summary shows everything you picked. Check it over, confirm in your wallet, and your token is created on the blockchain. Your initial supply lands in your wallet right away.
+When it all looks right, select **Create TICKER** and confirm in your wallet. One transaction creates the token, mints the whole supply to you and saves its name and description.
 
-## The big decision: keep or renounce admin
-
-Being the **admin** means holding the keys to your token — the power to change it after launch. You choose upfront how much of that power you want to keep, and it comes down to a trade-off between flexibility and trust.
-
-**Keep admin (flexible).** You stay in control. Later on you can mint more supply, burn tokens, and edit your token's details. This is the right choice for most projects that are still growing and want room to adapt. The trade-off: holders have to trust you not to mint a flood of new tokens and dilute them.
-
-**Renounce at creation (maximum trust).** You give up all admin power the moment the token is born. The supply is fixed forever — no one can ever mint more, not even you. This is the strongest possible signal to holders that what they see is what they get, but it's a one-way door.
-
-{% hint style="danger" %}
-**Renouncing is irreversible.** Once you renounce admin, there is no take-back — you can never mint, edit, or reclaim control again. Only choose this at creation if you are certain you want a permanently fixed supply. If you're unsure, keep admin for now; you can always renounce later from the Manage console.
+{% hint style="info" %}
+**Your draft is saved.** The form keeps what you typed in this browser, so you can leave and come back. **Start over** clears it.
 {% endhint %}
 
-## After you create
+## You keep control
 
-Your token now exists and works everywhere on BeeZee. From here you can:
+You keep control of your new token: you can mint more, edit its description and set its brand kit. Until you decide otherwise, buyers see it as **Mintable**.
 
-* **View it on the DEX or a [block explorer](https://explorer.getbze.com/)** to see it live on the network.
-* **Create a market or a liquidity pool** so people can actually trade it.
-* **Set up staking rewards** to grow a community around it.
+When your setup is done you can **lock the supply** forever from the token's page, so everyone sees **Fixed supply**. That's a separate, deliberate step, and it's best done last. See [Making It Official](making-it-official.md).
+
+## Your token is live
+
+Right after creating, a launch screen confirms your token is live and lists the next steps, each with its fee:
+
+* **Give it a look**: set a brand kit.
+* **Let people buy it**: create a liquidity pool.
+* **Reward the people who hold it**: set up holder rewards.
+* **Get its logo in every wallet**: list it in the Cosmos Chain Registry.
+* **Last: lock the supply (optional)**.
+
+Do them now or later: they stay on your token's page, ticking themselves off as they are done. The launch screen also shows your token ID with a copy button, and links to view your token on the DEX and the transaction. **Allow limit orders too** opens an order-book market for it.
+
+{% hint style="info" %}
+**Why no logo field?** Logos don't come from Token Factory. Wallets, explorers and DEXes read them from the Cosmos Chain Registry, and the app walks you through adding yours.
+{% endhint %}
 
 {% hint style="success" %}
-**For example.** Your online book club launches **$PAGE**. In the wizard you name it, set an initial supply, and decide to *keep admin* for now — the club is young and you might want to mint more for new members later. A minute after confirming, the full supply is in your wallet, ready to share. Next stop: giving $PAGE a market so members can get some.
+**For example.** Your online book club launches **$PAGE**: name "Page Turner", ticker PAGE, a short description, and 1 million tokens. A minute after confirming, the full supply is in the club's wallet, ready to share. Next stop: a $PAGE–BZE pool so members can buy some.
 {% endhint %}
 
 {% content-ref url="markets-and-liquidity.md" %}

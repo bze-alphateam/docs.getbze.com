@@ -12,45 +12,58 @@ layout:
     visible: true
 ---
 
-# Markets & Liquidity
+# Getting It Traded
 
-A brand-new token can't be traded until there's somewhere to trade it. Token Factory gives you two ways to open your token up to the world: an **order-book market** for hands-on trading, and a **liquidity pool** for instant swaps. Many projects set up both.
+A brand-new token can't be bought until there's somewhere to trade it. The **Get it traded** goals open your token up:
 
-## Create a market
+* **Let people buy and sell it**: a **liquidity pool**, for instant swaps.
+* **Make trading smoother**: **add liquidity** to a pool, so big trades move the price less.
+* **Allow limit orders**: an **order-book market**, where traders name their price.
 
-A **market** pairs your token with another so the two can be traded against each other — most often **your token vs BZE**. It's an order book: people place buy and sell orders at the prices they choose, and matching orders trade.
+A pool is all most tokens need. Many projects add a market as well.
 
-Just pick the two tokens for the pair and confirm. The app checks that the same pair doesn't already exist and won't let you create a duplicate — one market per pair keeps trading tidy and liquidity in one place.
+## Let people buy and sell it: create a pool
 
-## Create a liquidity pool
+A **liquidity pool** is a shared pot of two tokens that anyone can swap between instantly. Pairing your token with BZE is the usual choice.
 
-A **liquidity pool** is a shared pot of two tokens that anyone can swap between instantly, with no order to place and no counterparty to wait for. Seeding one for your token is what makes those effortless one-click swaps possible.
-
-When you create a pool you set:
-
-* **The two tokens** and how much of each to seed it with. The starting amounts set the opening price.
-* **The swap fee** — the trading fee paid on every swap through the pool. Choose **0.1%**, **0.2%**, **0.3%**, **1%**, or set a **custom** value. Lower fees attract more trades; higher fees earn more per trade.
-* **The fee split** — how that fee is divided up. You decide the shares that go to the pool's **liquidity providers** (the people who supply tokens to the pool), to the **burner** (permanently removing tokens from circulation), and to your own **treasury**.
+1. **Which pair?** Your token and the one it's paired with. Each pair can have only one pool; if it already exists, the app offers **Add liquidity to it** instead. The network stores every pair in alphabetical order, so the app may show your pair the other way round. That's normal.
+2. **How much to put in?** The amounts of both tokens. Their ratio sets your token's **starting price**, which the form shows as you type.
+3. **Swap fee and where it goes.** The fee charged on every swap: **0.1%**, **0.2%** (the default), **0.3%**, **1%**, or a custom value between 0.1% and 5%. Then choose where the fees go, split between **Providers** (it grows the pool for its liquidity providers), the **Burner** (burned forever) and the community **Treasury**.
 
 {% hint style="warning" %}
-**The first liquidity is locked forever.** When a pool is created, the very first batch of **LP tokens** — the receipts that represent a share of the pool — is permanently burned rather than given to anyone. This is deliberate: it leaves a small, permanent floor of liquidity that can never be pulled out, so the pool can't be fully drained and simply vanish. It's a one-time, irreversible cost of opening a pool, and it protects everyone who trades or provides liquidity afterwards.
+**This first deposit stays in the pool for good.** It is the pool's permanent floor: nobody can withdraw it, you included, and you get no LP tokens for it. To add liquidity you can take back later, use **Add liquidity** once the pool exists. The swap fee and where it goes are also fixed when the pool is created.
 {% endhint %}
 
-## Add liquidity
+Check **You will pay** (the pool creation fee, read from the network) and select **Create pool**. Swaps can start right away. The success screen shows your pool's **LP token** and offers to **Reward liquidity providers** with a campaign.
 
-Once a pool exists, anyone can **add liquidity** to it — including you, topping up your own. You deposit both tokens and receive **LP tokens** in return, representing your share of the pool and the fees it earns.
+## Make trading smoother: add liquidity
 
-* **Ratio-locked inputs.** You add the two tokens in the pool's current proportion, so when you type an amount for one side the app fills in the matching amount for the other. This keeps the pool balanced.
-* **Slippage setting.** A pool's ratio can shift in the moment while your deposit settles. A slippage setting protects you: if it moves more than you allow, the deposit is cancelled instead of going through on worse terms.
+Anyone can add to an existing pool, you included, and get **LP tokens** for their share of the pool and the fees it earns. LP tokens can be withdrawn later on the DEX.
+
+1. **Which pool?** The form shows the pool's reserves, its price and your current share.
+2. **How much to add?** Deposits follow the pool's ratio: fill in either side and the other is computed for you.
+3. **Price protection**: **0.5%**, **1%** (the default) or **3%**. If the price moves more than this before your deposit lands, it is cancelled and nothing is spent.
+
+There is no Token Factory fee, only the network fee. Select **Add liquidity** and the LP tokens arrive in your wallet.
+
+## Allow limit orders: create a market
+
+An **order-book market** lets traders place buy and sell orders on the DEX at the price they choose. Pick the token being traded and the token it's priced in (for example your token, priced in BZE), check the market creation fee, and select **Create market**.
+
+Creating a market is permanent, and every pair can have only one. If it already exists, the app links you to it on the DEX.
 
 ## Why pairing with BZE matters
 
-Giving your token a pool **with BZE** does more than enable swaps. It's also the key that unlocks one of BeeZee's signature ideas: once your token has a BZE pool behind it, your token can be used to **pay network fees**, and newcomers can pick it up in a single swap. To people using your app, it can feel like BeeZee was built just for your project.
+A pool **with BZE** does more than enable swaps. Once your token has a BZE pool behind it, it can be used to **pay network fees**, and newcomers can pick it up in a single swap. To the people using your project, it can feel like BeeZee was built just for them.
 
 {% hint style="success" %}
-**For example.** The book club creates a **$PAGE–BZE** market so members can place orders, then seeds a **$PAGE–BZE** pool with a 0.3% swap fee for instant swaps. With that pool live, new members can grab $PAGE in one click — and they can even pay their fees in $PAGE from then on.
+**For example.** The book club creates a **$PAGE–BZE** pool with the default 0.2% swap fee, sending all the fees to its liquidity providers. With the pool live, new members can grab $PAGE in one click, and they can even pay their fees in $PAGE from then on. Later the club adds a market too, so members can place limit orders.
 {% endhint %}
 
 {% content-ref url="../../overview/features/fee-token.md" %}
 [fee-token.md](../../overview/features/fee-token.md)
+{% endcontent-ref %}
+
+{% content-ref url="growing-your-community.md" %}
+[growing-your-community.md](growing-your-community.md)
 {% endcontent-ref %}
