@@ -14,37 +14,60 @@ layout:
 
 # Burning Raffles
 
-A burning raffle is a way to help burn coins and maybe get a little something back for it — not a bet. Here's the key idea: **every contribution you make burns tokens**. That's the whole point. In return, each contribution gives you a chance to win a share of the prize pot, and whatever is left in the pot when the raffle ends is burned too. Win or not, your contribution always did its job — it took coins out of supply.
+A burning raffle is a way to help burn a coin and maybe get a little something back for it. It's a contribution, not a bet: what you put in goes into the raffle's **pot**, and whatever is left in the pot when the raffle ends is **burned**. Along the way, each contribution gives you a chance to win a share of that pot. Win or not, you've helped take coins out of supply.
 
-Because it's built entirely on burning, a raffle is a contribution mechanism, never gambling. You're not staking money hoping to grow it; you're helping shrink the supply, with a friendly chance of a reward for taking part.
+## How a raffle works
+
+Raffles aren't started from the Burner app. Someone starts one on the network for a particular coin, putting up the starting pot and choosing the raffle's settings: the price of a contribution, the chance of winning, the share of the pot a winner receives and how long it runs. The app then lists every raffle that's running.
+
+From there:
+
+1. **You contribute.** Each contribution costs a fixed price in the raffle's coin, and it goes into the pot.
+2. **Each contribution is drawn on its own.** The network draws your first contribution 2 blocks after you join, then the next one in the following block, and so on, one per block. Five contributions means five separate draws.
+3. **Winners take a share of the pot.** A winning contribution receives a percentage of the pot as it stands at that moment, paid straight to your wallet. A contribution that doesn't win stays in the pot, so the prize grows as people take part.
+4. **The rest is burned.** When the raffle ends, everything still in the pot is destroyed.
+
+Your chance is shown as "**1 in N**", and it applies to **each contribution**: with a 1 in 10 chance, every contribution you make has its own 1 in 10 chance to win. More contributions give you more chances, but never a guaranteed win.
+
+{% hint style="warning" %}
+**Only contribute what you're happy to burn.** Your contributions can't be taken back, and any one of them may well not win. Think of the prize as a thank-you, not something to count on.
+{% endhint %}
+
+## Finding raffles
+
+Click **Raffles** in the top menu to see every raffle that's running under **Burning Raffles**. Each card shows the coin, the **time left**, your **chance**, the current **Prize** and the price of one **Contribution**. The page also explains how raffles work, under **What are Burning Raffles?**
+
+Click a raffle card (**Click to contribute →**) to open that coin's page, where you join. When nothing is running, the page says **No Active Raffles**.
 
 ## Taking part
 
-When a coin has an active raffle running, you'll see a **Join Raffle** option on it. From there:
+1. On the coin's page, find the **Burning Raffle** section and click **Join Raffle**.
+2. The form shows the **Current Prize**, **Your chance** and your **Available Balance**.
+3. Enter the **Number of Contributions**. The price per contribution is shown underneath, and **Total Cost** adds it up for you.
+4. Click **Join Raffle** and approve in your wallet.
 
-1. **Choose how many contributions** you'd like to make — each one is like a ticket.
-2. The app shows you the **price per contribution**, your **total cost**, and your **win chance**, written plainly as "**1 in N**".
-3. **Confirm**, and your tokens are burned as your contributions go in.
-
-More contributions improve your chances — but they never guarantee a win. A better "1 in N" is still just a chance, so only contribute what you're happy to burn regardless of the outcome.
+New contributions stop being accepted in the last couple of hours before a raffle ends.
 
 ## Seeing your results
 
-Results settle a couple of moments after you join. When they're ready, a full-screen animation plays and reveals the outcome of each of your contributions one by one, followed by a summary of how you did.
+As your draws happen, a full-screen animation on the coin's page reveals them one by one ("Contribution 1 of 5", then the next), showing **YOU WON!** with the amount, or better luck next time. When every draw is done, a **Summary** shows your total won and how many contributions won and lost.
 
 {% hint style="info" %}
-You don't have to sit and watch. If you close the animation, nothing is lost — your results still arrive as notifications, and any winnings are yours all the same. Close it whenever you like.
+**You don't have to watch.** Close the animation whenever you like. As long as the Burner app stays open, each result still arrives as a notification, followed by a final summary. Any winnings are paid to your wallet either way.
 {% endhint %}
 
-## Finding raffles and winners
+## Winners
 
-* A dedicated **raffles page** lists every active raffle in one place, showing the **prize**, the **price** per contribution, your **chance**, and the **time left** to join.
-* Each coin also keeps a **winners list**, so you can see who's won recently. Your own wins are tagged, making them easy to spot.
+Each coin's raffle section shows **Total Won** so far and by how many winners, plus a list of the latest winners. Your own wins are tagged **YOU**, so they're easy to spot.
 
 {% hint style="success" %}
-**For example.** That gaming guild runs a raffle on its **$GUILD** token to celebrate a new season. Members join with a few contributions each — every one of those burns $GUILD — and a handful walk away with a share of the pot. Whatever's left over is burned when the raffle wraps up, so the community ends the event with a little less $GUILD in supply and a bit of shared fun along the way.
+**For example.** The gaming guild starts a raffle on **$GUILD** to celebrate a new season. Members join with a few contributions each, and every contribution that doesn't win makes the pot (and the prize) a little bigger. A handful of members win a share along the way, and when the raffle ends, everything left in the pot is burned. The community ends the event with less $GUILD in supply and a bit of shared fun.
 {% endhint %}
 
 {% hint style="info" %}
-You'll need a connected wallet to join a raffle. Connecting your wallet is shared across all the apps — see [Connecting a Wallet](../../using-the-apps/connecting-a-wallet.md).
+You'll need a connected wallet to join a raffle. Connecting your wallet is shared across all the apps; see [Connecting a Wallet](../../using-the-apps/connecting-a-wallet.md).
 {% endhint %}
+
+{% content-ref url="coin-pages.md" %}
+[coin-pages.md](coin-pages.md)
+{% endcontent-ref %}

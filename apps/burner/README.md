@@ -14,7 +14,7 @@ layout:
 
 # Burner
 
-The Burner app is where the community reduces the BZE supply through burns and where anyone can join burning raffles.
+The Burner app is where coins leave circulation for good: anyone can burn the coins they hold, follow every burn as it happens, and join burning raffles.
 
 [**Open Burner →**](https://burner.getbze.com/)
 
