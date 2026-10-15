@@ -14,43 +14,65 @@ layout:
 
 # Staking Programs
 
-The heart of a token's page is its **staking programs** — ways to lock up tokens and earn rewards over time. A project can run programs that reward you for holding its own token, and it can also reward the people who stake other coins, putting itself in front of a wider audience. You will see them sorted into two clear groups:
+Besides its holders pool, a token can have **staking programs**: campaigns with an end date, where you stake one token for a set number of days and share a daily prize. On a token's page they're called **Fixed-term programs**, and they come in two places:
 
-* **Stake [TOKEN] to earn** — put the community's token to work and collect rewards.
-* **Earn [TOKEN] by staking** — stake a different coin and earn this community's token in return.
+* **Stake your TICKER**: programs where you stake the page's own token. They sit under the holders pool, in **Fixed-term programs**.
+* **Ways to earn TICKER**: programs where you stake a *different* token, often an LP token from a liquidity pool, and are paid in the page's token. They show up in the **Earn** section.
+
+The token you stake in a program is locked on its own, separate from the holders pool, with the program's own unlock time.
+
+{% content-ref url="holders-pool.md" %}
+[holders-pool.md](holders-pool.md)
+{% endcontent-ref %}
 
 ## Reading a program card
 
-Each program is shown as a card so you can size it up before joining. At a glance you will find:
+Each program is a card, so you can size it up before joining:
 
-* **Status** — **Running** (live and paying out), **Waiting for stakers** (open, but no one has joined yet), or **Finished** (the program has ended).
-* An **estimated APR** — a friendly yearly-return figure so you can compare programs.
-* **Days remaining** — how long the program keeps paying.
-* The **daily payout** — how much is shared out among stakers each day.
-* The **minimum stake** — the smallest amount you can put in.
-* The **total staked** — how much everyone has committed so far.
+* **Pays in**: the prize token, with the program's **APR** when it can be worked out.
+* **Paid daily**: how much is shared between everyone staking, each day.
+* **Ends in**: how many days the program still pays, or **Finished**.
+* **Unlock time**: how long your tokens wait after you unstake, or **Instant** when there's no wait. This lock is set by whoever started the program, and it's right on the card so you know it before you join.
+* **Total staked**: how much everyone has committed so far.
+* **Minimum**: the smallest stake the program accepts.
+
+Programs that stake an **LP token** name both tokens of the pool, like **GUILD/BZE LP**, so you know which liquidity you'd need to provide first.
+
+Running programs are listed first. Once a program has finished, it only stays on the page for people who still have tokens in it, so they can claim and unstake.
 
 {% hint style="info" %}
-**APR is an estimate, not a promise.** The APR is worked out from the current rewards and how much is staked right now. As people stake and unstake, and as the program runs down, the real figure moves. Treat it as a helpful guide for comparing programs, not a guaranteed return.
+**APR is an estimate, not a promise.** It's worked out from the daily prize and how much is staked right now, using prices when the prize and the staked token are different. As people join and leave, the real figure moves. When a price is missing, the card leaves the APR out rather than guess.
 {% endhint %}
 
 ## Taking part
 
-Everything you do with a program happens in a single window. Open it from a program card and you will find three actions.
+Connect your wallet and the program cards under **Fixed-term programs** gain their buttons.
 
-* **Stake** — enter how much you want to commit, or tap **Max** to use your whole balance. Before you confirm, the app shows your **estimated daily rewards** at that amount. If your stake is large enough to noticeably move the returns, it also shows a projected **new APR** — a heads-up that adding a lot to the pool spreads the same rewards across more staked tokens.
-* **Unstake** — take some or all of your tokens back out. This starts a **lock period**: a short waiting time before the tokens are free to use again, so they do not leave the moment you ask.
-* **Claim** — collect the rewards you have earned so far and send them to your wallet.
+* **Stake** (or **Stake more**): enter an **Amount** or tap **Max**, check the **Network fee**, and confirm. Your total stake must reach the program's minimum. If you already have rewards waiting, staking more pays them out first, in the same transaction.
+* **Claim**: appears when you have something to collect, and sends the prize you've earned to your wallet. Your stake stays in and keeps earning.
+* **Unstake**: takes out **your whole stake**. There's no partial unstake: any unclaimed prize is paid out first, then your tokens wait for the program's **Unlock time** and come back to your wallet. When the unlock time is **Instant**, they come back in the same transaction.
 
-The same window keeps track of where you stand: your **current stake**, your **pending rewards** waiting to be claimed, and any **pending unlocks** still counting down from an unstake.
+Once you're in, the card shows where you stand: **You stake**, what's **Ready to claim**, and anything **Unlocking**, with a countdown to when it returns.
+
+Joining a program from **Ways to earn TICKER** works the same way, with a **Stake** button on its card. To claim from it or unstake later, use the staking page of the DEX, which lists every program on BeeZee, or the page of the token you staked if it's a community token.
 
 {% hint style="warning" %}
-**Unstaking is not instant.** When you unstake, your tokens are held for the program's lock period before they return to your wallet, and during that time they are not earning. Check the amount and the wait before you confirm.
+**Unstaking takes everything out, and may not be instant.** Your whole stake leaves the program and stops earning the moment you unstake. Check the unlock time before you confirm.
 {% endhint %}
 
 {% hint style="success" %}
-**For example.** A gaming guild runs **$GUILD**. You open its page in the Communities app and spot a **Stake $GUILD to earn** program that's **Running** with a healthy estimated APR and 40 days left. You stake some $GUILD, the window shows your estimated daily rewards, and from then on you drop back in now and then to **Claim** what you have earned.
+**For example.** The gaming guild runs a 30-day campaign: stake the **GUILD/BZE LP** token, earn a daily **$GUILD** prize. On the $GUILD page, it shows up under **Ways to earn GUILD**. You add liquidity to the $GUILD–BZE pool in the **Trade** section, and stake the LP tokens you got right from the program's card. From then on, you claim your $GUILD now and then on the DEX's staking page.
 {% endhint %}
+
+{% content-ref url="../dex/staking-and-earning.md" %}
+[staking-and-earning.md](../dex/staking-and-earning.md)
+{% endcontent-ref %}
+
+Running a program of your own? Token Factory walks you through it:
+
+{% content-ref url="../token-factory/growing-your-community.md" %}
+[growing-your-community.md](../token-factory/growing-your-community.md)
+{% endcontent-ref %}
 
 {% content-ref url="../../overview/features/earning-rewards.md" %}
 [earning-rewards.md](../../overview/features/earning-rewards.md)
