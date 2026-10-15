@@ -49,7 +49,7 @@ Open **Make my token stakable** from the home page, or the **Rewards** tab of yo
 Confirm with **Make TICKER stakable** and pay the holder rewards fee. From then on the panel shows **Live**, how much is **Staked by holders**, the daily prizes that are running and the prize tokens used.
 
 {% hint style="info" %}
-**You don't have to be the creator.** Holder rewards are open to everyone: anyone can make any token stakable, and creating it gives no special rights. Holders stake in the [Communities app](../communities/README.md), on the token's page.
+**You don't have to be the creator.** Holder rewards are usually started by the token's team, but anyone can make any token stakable, and starting it gives no special rights. Holders stake in the [Communities app](../communities/holders-pool.md), on the token's page.
 {% endhint %}
 
 ## Give a little every day: daily prizes
@@ -131,7 +131,7 @@ A **staking program** is a campaign: people stake one token for a set number of 
 2. **What do they earn, and for how long?** The prize token, the prize per day and the number of days (1 to 36,500).
 3. **Rules for stakers**: an optional **lock period** (0 means they can leave any time) and an optional **minimum stake**.
 
-Confirm with **Start the program** and pay the staking program fee. People join it in the [Staking app](../staking/README.md).
+Confirm with **Start the program** and pay the staking program fee. People join it on your token's page in the [Communities app](../communities/staking-programs.md) or on the [DEX Staking page](../dex/staking-and-earning.md).
 
 {% hint style="danger" %}
 **The whole prize is paid upfront and can't be withdrawn.** The prize per day × the number of days leaves your wallet when you sign and is paid to stakers day by day.

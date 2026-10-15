@@ -14,14 +14,24 @@ layout:
 
 # Overview
 
-The Burner app is where BeeZee permanently removes coins from circulation. Part of the fees collected across the ecosystem is sent here to be burned, and the community approves regular burns through governance.
+The Burner app, themed as **The Burning Pot**, is where BeeZee permanently removes coins from circulation, out in the open for anyone to see.
 
-You can also take part in **burning raffles** for a chance to earn a share of the amount being burned — a fun way to be part of keeping the supply in check.
+Coins reach the pot in two ways: part of the fees collected across the ecosystem is sent there automatically, and anyone can toss in coins they hold. Every few weeks the network burns everything in the pot on its own, with no vote or button press needed. How often is set by the network, currently every 4 weeks, and the app always shows a countdown to the next burn.
 
-Two guides walk you through it: burning coins you hold, and joining the raffles.
+The app has three places to explore, all in the top menu:
+
+* **Home**: the countdown, the coins waiting in the pot, everything burned and locked so far, and the burn history.
+* **Raffles**: every burning raffle that's running, where you can contribute for a chance to win a share of the pot.
+* **Search Coin**: find any coin by name or ticker and open its own page.
+
+The guides below walk you through each part.
 
 {% content-ref url="burning-tokens.md" %}
 [burning-tokens.md](burning-tokens.md)
+{% endcontent-ref %}
+
+{% content-ref url="coin-pages.md" %}
+[coin-pages.md](coin-pages.md)
 {% endcontent-ref %}
 
 {% content-ref url="burning-raffles.md" %}

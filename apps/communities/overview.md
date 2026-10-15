@@ -14,14 +14,28 @@ layout:
 
 # Overview
 
-The Communities app gives every project built on BeeZee a home of its own. Here you can discover community tokens and take part in what they offer — from staking programs to rewards and more — all in one place.
+The Communities app gives every project built on BeeZee a home of its own. Discover community tokens, then step onto a token's page and take part in everything it offers: stake it, earn it, trade it, burn it, all in one place.
 
-It ties together everything a community can build on BeeZee, seen from the perspective of the people who want to join and support a project. The clever part: open any token and the app **rebrands around that project** — its logo, its colours, its token front and centre — so it feels like the token's own site rather than a shared directory.
+Each token page is built to be the **project's own website**. It's drawn in the token's brand colours and font, carries no BeeZee menus, and has a wallet dedicated to that token. Where the token can pay network fees, it pays them on its page by default, so visitors never need to hold BZE.
 
-Here's where to start:
+Here's what you'll find:
+
+* **The Token directory**: search, filter and sort every community token.
+* **Token pages**: the price and key numbers, a price chart, buying and selling, liquidity pools, burns and burn raffles.
+* **The holders pool**: stake a token and share the daily prizes it pays out.
+* **Staking programs**: campaigns with an end date, for the token itself or for other tokens that pay it.
+* **The token's wallet**: get the token with an instant swap, send it, burn it and claim your rewards.
 
 {% content-ref url="discovering-tokens.md" %}
 [discovering-tokens.md](discovering-tokens.md)
+{% endcontent-ref %}
+
+{% content-ref url="token-pages.md" %}
+[token-pages.md](token-pages.md)
+{% endcontent-ref %}
+
+{% content-ref url="holders-pool.md" %}
+[holders-pool.md](holders-pool.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-programs.md" %}

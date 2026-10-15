@@ -18,7 +18,7 @@ CoinTrunk is a side project that builds practical, open-source tools for the Bee
 
 CoinTrunk's tools include:
 
-* **Decentralized content sharing** — a community-curated platform for publishing and reading articles stored on-chain.
+* **Decentralized content sharing** — a community-curated platform for publishing and reading articles, each one listed on-chain.
 * **A payment processor** _(planned)_ — an easy way for merchants to accept BZE and other BeeZee assets.
 * **The CoinTrunk wallet** — a self-custodial wallet, including the CoinTrunk Extension for your browser.
 

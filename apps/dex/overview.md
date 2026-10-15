@@ -18,11 +18,19 @@ The BeeZee DEX lets you trade coins and tokens directly from your wallet, with n
 
 * **Instant swaps** through liquidity pools.
 * **Order-book markets** for placing buy and sell orders at the price you want.
-* **Earn** by joining staking programs and trading rewards.
+* **Earning**: provide liquidity for a share of trading fees, lock it in Boost Rewards, claim your BZE staking rewards, join staking programs, and stake tokens in their holders pools for daily prizes and airdrops.
 
 Anyone can create a market or a pool for any token, and fees are kept low. Because every trade settles on the blockchain, you always keep custody of your assets.
 
-The DEX is organised into a few tabs — **Swap**, **Exchange**, **Pools**, **Staking**, and **Assets**. Here's what each one does:
+The DEX is organised into five tabs:
+
+* **Swap**: trade one token for another in a single click.
+* **Exchange**: order-book markets, with charts, order books and your open orders.
+* **Staking**: every way to earn by staking, in one place.
+* **Pools**: liquidity pools, adding and removing liquidity, and Boost Rewards.
+* **Assets**: the directory of every token on BeeZee, with what you need to judge one before you trade it.
+
+Here's each one in detail:
 
 {% content-ref url="swapping.md" %}
 [swapping.md](swapping.md)
@@ -32,12 +40,12 @@ The DEX is organised into a few tabs — **Swap**, **Exchange**, **Pools**, **St
 [order-book-markets.md](order-book-markets.md)
 {% endcontent-ref %}
 
-{% content-ref url="liquidity-pools.md" %}
-[liquidity-pools.md](liquidity-pools.md)
-{% endcontent-ref %}
-
 {% content-ref url="staking-and-earning.md" %}
 [staking-and-earning.md](staking-and-earning.md)
+{% endcontent-ref %}
+
+{% content-ref url="liquidity-pools.md" %}
+[liquidity-pools.md](liquidity-pools.md)
 {% endcontent-ref %}
 
 {% content-ref url="assets.md" %}

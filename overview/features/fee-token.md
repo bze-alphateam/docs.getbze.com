@@ -14,9 +14,11 @@ layout:
 
 # Any Token as a Fee Token
 
-On BeeZee, almost any token can be used to pay network fees — one created here, or one bridged in from another chain — as long as it has a liquidity pool paired with BZE. The same applies to any custom fees an app charges: those can be collected in that token too. All the people using your app need is your token; they never have to hold BZE, and the blockchain does its work quietly in the background.
+On BeeZee, almost any token can be used to pay network fees — one created here, or one bridged in from another chain — as long as it has a liquidity pool paired with BZE that holds enough BZE. The network sets that minimum amount of BZE liquidity, and a token whose trading has been paused can't pay fees. The same applies to any custom fees an app charges: those can be collected in that token too. All the people using your app need is your token; they never have to hold BZE, and the blockchain does its work quietly in the background.
 
 With enough liquidity behind it, a token can make the whole chain feel like it was built just for that project — its token pays for everything, everywhere, apart from the network's own staking, which stays in BZE to keep the chain secure.
+
+If a token stops qualifying — its pool shrinks below the minimum, for example — the apps automatically go back to charging fees in BZE for anyone who had picked it, so nothing breaks for your users. Keeping your pool healthy keeps your token working as a fee token.
 
 This is a big deal for builders. It means you can launch a flexible token on a proven, ready-made blockchain and offer apps that feel entirely your own — your token, your brand, your community — without ever running or maintaining the infrastructure yourself. BeeZee works for you and your users behind the scenes.
 

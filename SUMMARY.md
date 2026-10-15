@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 BZE IN COSMOS](README.md)
+* [👋 Welcome to BeeZee](README.md)
 * [Overview](overview/README.md)
   * [Getting Started](overview/getting-started.md)
   * [Features](overview/features/README.md)
@@ -40,6 +40,7 @@
 * [Burner](apps/burner/README.md)
   * [Overview](apps/burner/overview.md)
   * [Burning Tokens](apps/burner/burning-tokens.md)
+  * [Coin Pages](apps/burner/coin-pages.md)
   * [Burning Raffles](apps/burner/burning-raffles.md)
 * [Token Factory](apps/token-factory/README.md)
   * [Overview](apps/token-factory/overview.md)
@@ -52,6 +53,8 @@
 * [Communities](apps/communities/README.md)
   * [Overview](apps/communities/overview.md)
   * [Discovering Tokens](apps/communities/discovering-tokens.md)
+  * [Token Pages](apps/communities/token-pages.md)
+  * [Holders Pool](apps/communities/holders-pool.md)
   * [Staking Programs](apps/communities/staking-programs.md)
   * [Getting a Token](apps/communities/getting-a-token.md)
 * [BZE Hub](apps/hub/README.md)

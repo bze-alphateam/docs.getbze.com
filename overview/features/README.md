@@ -19,8 +19,8 @@ BeeZee brings together everything you need to use, create, and grow — all in o
 1. [**Stake BZE**](stake-bze.md) — earn a share of the rewards, including inflation, and help secure the network.
 2. [**Trading**](trading.md) — swap through liquidity pools or trade on order-book markets.
 3. [**Create Your Own Token**](creating-tokens.md) — launch a token and reward the people who support it.
-4. [**Earn Rewards**](earning-rewards.md) — join staking programs across the ecosystem to earn more.
-5. [**Token Burning**](token-burning.md) — take part in regular, community-driven coin burns.
+4. [**Earn Rewards**](earning-rewards.md) — every way to earn: staking, holders pools, staking programs and liquidity.
+5. [**Token Burning**](token-burning.md) — burn coins for good, add to the automatic burn, or join a burning raffle.
 6. [**Cross-Chain Transfers**](cross-chain-transfers.md) — move your assets between connected blockchains.
 7. [**Building Communities**](building-communities.md) — everything a project needs to run its own token.
 8. [**Any Token as a Fee Token**](fee-token.md) — let users pay fees in your token instead of BZE, whether it was created here or bridged in.
