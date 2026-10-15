@@ -14,53 +14,62 @@ layout:
 
 # Managing Your Token
 
-The **Manage** tab is your control room. It lists everything you've created in Token Factory — your tokens, along with any markets, liquidity pools, and reward programs you've set up — all in one place so you can keep an eye on your whole project.
+**Manage** opens **Your tokens**: everything created by your connected wallet, read straight from the network.
 
-## The trust badge
+## Your tokens
 
-Every token you've made shows a badge that tells anyone, at a glance, what kind of token it is:
+Each token shows its name and ticker, its total supply, its token ID with a copy button, and how far its setup is ("4 of 6 set up · no pool yet"). A badge tells anyone at a glance what kind of token it is:
 
-* **Fixed supply** — admin has been renounced, so no new tokens can ever be minted. What you see is what there will always be.
-* **Mintable** — you still hold admin and could mint more supply later.
+* **Mintable**: someone still controls it and could mint more.
+* **Fixed supply**: the supply was locked, so no new tokens can ever be minted.
 
-This badge is a big part of how holders judge a token, so it's worth understanding which one yours carries.
+Below your tokens, **Markets and pools you created** lists your pools (with their swap fee and a quick **Add liquidity**) and your markets. Select **Open** on a token to go to its page.
 
-## Token actions
+## Your token's page
 
-The actions below are available only to the token's **admin** — if you renounced admin, most of these are gone for good.
+Your token's page has six tabs.
 
-### Mint
+### Overview
 
-Create more of your token, minted straight to your wallet. Handy when your project grows and you need more supply to distribute.
+The token's key numbers (total supply, how much is in your wallet, how much holders stake, where it trades) and a **setup checklist**: description, brand kit, liquidity pool, holder rewards, logo in every wallet and, optionally, an order-book market. The checklist is read from the network, so it stays current however you did each step, and each item has a button to do it.
 
-{% hint style="warning" %}
-**Minting dilutes existing holders.** Every new token you mint makes each existing token a smaller slice of the total. Use it thoughtfully — minting a lot, or often, can shake holders' trust.
-{% endhint %}
+### Supply
 
-### Burn
+* **Mint more**: create more of your token, straight to your wallet. The form shows the new total supply.
+* **Burn**: destroy some of the tokens you hold, shrinking the supply. You can also burn in the [Burner](../burner/README.md) app, where anyone can burn the tokens they hold and see the burn history.
 
-Permanently remove tokens from your own balance, shrinking the total supply. You can burn here in Token Factory, or use the dedicated **Burner** app for the same job.
-
-### Edit metadata
-
-Update your token's **name** and **description** as your project evolves. Two things can never change, though: the **symbol** (ticker) and the number of **decimals** are locked from creation so that everyone across the network always refers to your token the same way.
-
-### Transfer admin
-
-Hand admin control to another wallet address — useful if a project moves to a team wallet or a new owner.
+Mint and burn cost only the network fee.
 
 {% hint style="warning" %}
-**You are handing over full control.** The address you transfer to gains every admin power you have — minting, burning, editing, even renouncing. Double-check the address before you confirm; there's no undo if you send it to the wrong place.
+**Minting more lowers the share every holder owns.** Use it thoughtfully: minting a lot, or often, can shake holders' trust.
 {% endhint %}
 
-### Renounce admin (Danger zone)
+### Profile
 
-Renouncing gives up your admin power for good and flips your token to **Fixed supply** — provably, permanently, so holders can trust the supply will never grow. Because it's such a final step, it lives in a **Danger zone** and asks you to **type your token's ticker** to confirm you really mean it.
+* **What wallets show**: edit the token's **name** and **description**. You review the change before **Save on-chain**, and wallets and explorers pick it up right away. The ticker, token ID and decimals can never change.
+* **Brand kit**: your token's colours and font on its Communities page.
+* **Logo**: a link to the registry guide that gets your logo into every wallet.
 
-{% hint style="danger" %}
-**This cannot be undone.** Once you renounce, no one — including you — can ever mint more, edit details, or reclaim control. Only do this when you're certain you want your token's supply fixed forever.
+### Trading
+
+The pools and order-book markets with your token, including ones other people created (yours are marked **You created it**), with buttons to add liquidity, reward liquidity providers or view them on the DEX.
+
+### Rewards
+
+Your token's **holder rewards** and the **staking programs** that involve it. See [Growing Your Community](growing-your-community.md).
+
+### Control
+
+Who controls the token, and the two ways to give that up: **lock the supply** forever, or **hand over control** to another address. See [Making It Official](making-it-official.md).
+
+{% hint style="info" %}
+**After locking or handing over,** the actions that need control (minting, editing what wallets show, the brand kit) disappear from your token's page. Everything else keeps working: trading, rewards, and burning the tokens you hold.
 {% endhint %}
 
-{% hint style="success" %}
-**For example.** The book club's **$PAGE** has settled into a steady membership and the supply feels right. To reassure members that no more $PAGE will ever appear, the club opens the Danger zone, types `PAGE` to confirm, and renounces admin. The badge flips to **Fixed supply**, and from now on $PAGE is provably capped.
-{% endhint %}
+## Rewards on BeeZee
+
+The **Rewards** page lists every holder reward and staking program on BeeZee, yours first. From there you can make any token stakable, airdrop to its stakers, add a daily prize, or extend a staking program.
+
+{% content-ref url="growing-your-community.md" %}
+[growing-your-community.md](growing-your-community.md)
+{% endcontent-ref %}

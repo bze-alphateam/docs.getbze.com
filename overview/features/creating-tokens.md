@@ -18,18 +18,21 @@ Create your own token in seconds — no coding required. Your token is a first-c
 
 As a token creator you can:
 
-* **Reward your stakers** — set up staking programs so the people who stake your token earn rewards.
-* **Airdrop your holders** — send rewards to everyone who stakes your token.
-* **Reach other communities** — airdrop the people who stake another coin, putting your token in front of an audience that is already active.
+* **Make your token stakable** — holders stake it and share daily prizes that you, or anyone, fund.
+* **Gift your stakers** — split an amount between everyone staking your token, in one go.
+* **Reach other communities** — gift your token to the people who stake another coin, putting it in front of an audience that is already active.
+* **Send to a list of wallets** — pay contest winners, a snapshot or a spreadsheet of addresses in one go.
+* **Run campaigns** — staking programs with an end date, for example to reward the people who add liquidity to your pool.
+* **Get your logo in every wallet** — Token Factory walks you through listing your token in the Cosmos Chain Registry.
 * **Reward traders _(coming soon)_** — reward the people who trade your token in a chosen market.
 * **Pay fees in your own token** — set up a liquidity pool between your token and BZE, and your token can be used to pay the network's fees.
 
 That last point is a big one: once your token pays the fees, the people using your app only ever need your token — never BZE. To them, it feels like BeeZee is a blockchain made just for your project.
 
 {% hint style="success" %}
-**A quick example.** Say you run an online book club. You launch **$PAGE** in a few clicks, set up a staking program so members who stake $PAGE earn a share of rewards, and airdrop your most active readers. Then you add a $PAGE–BZE liquidity pool — and now your members pay their fees in $PAGE too, taking part in everything without ever needing to hold BZE.
+**A quick example.** Say you run an online book club. You launch **$PAGE** in a few clicks, make it stakable so members who stake $PAGE share a daily prize, and gift everyone already staking a little extra. Then you add a $PAGE–BZE liquidity pool — and now your members pay their fees in $PAGE too, taking part in everything without ever needing to hold BZE.
 {% endhint %}
 
 {% hint style="info" %}
-**Coming soon:** with the next network upgrade (currently in review and reaching testnet soon), you will be able to reward your stakers with several different coins from a single program, instead of just one.
+**See how it works.** The [Token Factory guides](../../apps/token-factory/overview.md) walk through each of these, step by step.
 {% endhint %}
