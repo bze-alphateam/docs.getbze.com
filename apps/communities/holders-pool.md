@@ -65,7 +65,7 @@ Once you're staked, **Your position** shows how much you stake and your **share 
 Two buttons link to Token Factory, where the rewards behind a holders pool are set up:
 
 * **Add rewards to the pool** opens a form to add a daily prize: pick the prize token, how much a day and for how many days. It's open to everyone, not only the creator: a fan, a partner project or another community can all reward this token's holders.
-* **Start a holders pool** appears instead of the pool when a token doesn't have one yet (**No holders pool yet**). Creating a pool gives no special rights, and once it exists anyone can fund it.
+* **Start a holders pool** appears instead of the pool when a token doesn't have one yet (**No holders pool yet**). A holders pool is usually started by the token's team, but anyone can start one. Starting it gives no special rights, and once it exists anyone can fund it.
 
 {% hint style="danger" %}
 **Prizes are paid upfront.** Whoever adds a daily prize locks the whole amount (the daily prize times the number of days) when they sign, and it can't be taken back. Read the details in Token Factory before you fund one.

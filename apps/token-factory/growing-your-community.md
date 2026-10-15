@@ -49,7 +49,7 @@ Open **Make my token stakable** from the home page, or the **Rewards** tab of yo
 Confirm with **Make TICKER stakable** and pay the holder rewards fee. From then on the panel shows **Live**, how much is **Staked by holders**, the daily prizes that are running and the prize tokens used.
 
 {% hint style="info" %}
-**You don't have to be the creator.** Holder rewards are open to everyone: anyone can make any token stakable, and creating it gives no special rights. Holders stake in the [Communities app](../communities/holders-pool.md), on the token's page.
+**You don't have to be the creator.** Holder rewards are usually started by the token's team, but anyone can make any token stakable, and starting it gives no special rights. Holders stake in the [Communities app](../communities/holders-pool.md), on the token's page.
 {% endhint %}
 
 ## Give a little every day: daily prizes
