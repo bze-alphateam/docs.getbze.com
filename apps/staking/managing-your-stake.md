@@ -49,7 +49,7 @@ Select **Claim All** next to the My Validators heading (it shows your total pend
 When you want your coins back, select **Undelegate** on the validator's card, enter an amount (the **25%**, **50%**, **75%** and **Max** shortcuts are based on what you have delegated), and confirm. This does not return your BZE straight away. It starts the **unbonding period**, a waiting time during which the coins are locked and earn nothing, before they arrive back in your wallet.
 
 {% hint style="warning" %}
-**Unstaking is not instant.** The unbonding period is set by the network and can change through governance. The dashboard shows its current length on the **Unbonding Period** card (visible before you connect a wallet). During that time your coins are locked and earn no rewards, and the Staking app cannot cancel an unbonding once it has started. If you only want to switch validators, **redelegating** avoids this wait entirely.
+**Unstaking is not instant.** The unbonding period is set by the network and can change through governance. The **Undelegate** window tells you its current length before you confirm, and once you have a stake the **Your Stake** card on the dashboard shows it too. During that time your coins are locked and earn no rewards, and the Staking app cannot cancel an unbonding once it has started. If you only want to switch validators, **redelegating** avoids this wait entirely.
 {% endhint %}
 
 Everything you are unstaking appears under **Unbonding Delegations**, soonest first. Each entry shows the amount, the time left (for example **5d left**) and the date it **Completes**. Once the wait is over, it is marked **Ready** and the coins are back in your wallet.
