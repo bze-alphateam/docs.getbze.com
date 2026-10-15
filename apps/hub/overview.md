@@ -18,7 +18,7 @@ BZE Hub is a desktop application for BeeZee. Its development is currently **on h
 
 The idea behind it: the app would run a small local node on your own PC, so your computer connects to the network directly instead of going through public apps or a browser.
 
-That would mean more independence and privacy: you would interact with the blockchain using software you run yourself, rather than depending on a third-party website being online. It also comes with its own built-in wallet, with your keys kept safely on your computer — so there's no browser extension to install.
+That would mean more independence and privacy: you would interact with the blockchain using software you run yourself, rather than depending on a third-party website being online. It would also come with its own built-in wallet, with your keys kept safely on your computer, so there would be no browser extension to install.
 
 The work done so far brings the everyday BeeZee actions into one place:
 
