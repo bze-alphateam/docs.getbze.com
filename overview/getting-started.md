@@ -20,7 +20,11 @@ New to BeeZee? Here is the quickest way to begin.
 
 We recommend [Keplr](https://www.keplr.app/) as your go-to wallet for BeeZee. It is a free, self-custodial wallet for your browser and phone that works smoothly with BeeZee and many other blockchains — so you stay in full control of your coins, with no account to sign up for.
 
-Step-by-step instructions for installing Keplr and adding BZE are covered in the wallet guide.
+Once your wallet is installed, connecting it to the apps takes a few clicks:
+
+{% content-ref url="../using-the-apps/connecting-a-wallet.md" %}
+[connecting-a-wallet.md](../using-the-apps/connecting-a-wallet.md)
+{% endcontent-ref %}
 
 ## 2. Get some BZE
 
@@ -30,10 +34,10 @@ The easiest way is right inside our apps: open the wallet panel in any BeeZee dA
 
 ## 3. Explore the apps
 
-Each app has its own guide (linked here as those pages are published):
+Each app has its own guide:
 
-* **DEX** — trade coins and tokens directly from your wallet.
-* **Staking** — stake your BZE to help secure the network and earn rewards.
-* **Token Factory** — create your own token in seconds, no coding required.
-* **Burner** — take part in community token burns and burning raffles.
-* **Communities** — discover and support projects built on BeeZee.
+* [**DEX**](../apps/dex/README.md) — trade coins and tokens directly from your wallet.
+* [**Staking**](../apps/staking/README.md) — stake your BZE to help secure the network and earn rewards.
+* [**Token Factory**](../apps/token-factory/README.md) — create your own token in seconds, no coding required.
+* [**Burner**](../apps/burner/README.md) — take part in community token burns and burning raffles.
+* [**Communities**](../apps/communities/README.md) — discover and support projects built on BeeZee.

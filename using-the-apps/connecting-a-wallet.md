@@ -20,7 +20,7 @@ The **Wallet** button sits at the top of every app (DEX, Staking, Burner, Token 
 
 ## Which wallet to use
 
-We recommend [Keplr](https://www.keplr.app/) — a free wallet for your browser and phone that works smoothly with BeeZee. The apps also work with **Leap**, **Cosmostation**, and **WalletConnect** (handy for connecting a mobile wallet by scanning a QR code).
+We recommend [Keplr](https://www.keplr.app/) — a free wallet for your browser and phone that works smoothly with BeeZee. The apps also work with **Leap** and **WalletConnect** (handy for connecting a mobile wallet by scanning a QR code). Those three are the options you'll see in the list.
 
 ## How to connect
 

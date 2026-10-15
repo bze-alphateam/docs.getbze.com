@@ -22,7 +22,15 @@ Switch between **dark** and **light** mode, whichever is easier on your eyes. Yo
 
 ## Preferred fee token
 
-Every action on BeeZee costs a small network fee. By default that's paid in BZE — but you don't have to stop there. You can choose to pay your fees in **another token instead**, as long as that token has a liquidity pool paired with BZE. Pick your preferred fee token here, and the app takes care of the rest quietly in the background.
+Every action on BeeZee costs a small network fee. By default that's paid in BZE — but you don't have to stop there. You can choose to pay your fees in **another token instead**. Pick it from the **Preferred Fee Token** list here, and the app takes care of the rest quietly in the background.
+
+The list only offers tokens that can actually pay fees right now. A token qualifies when:
+
+* it has a liquidity pool paired with BZE,
+* that pool holds at least a **minimum amount of BZE**, set by the network, and
+* trading in it hasn't been paused.
+
+If the token you picked stops qualifying later — say its pool drops below the minimum — the app quietly switches you back to paying in BZE, so your transactions keep working.
 
 This is one of BeeZee's signature ideas: with a pool behind it, almost any token can pay the fees, so an app can feel like it was built entirely around that one token.
 

@@ -14,7 +14,7 @@ layout:
 
 # CoinTrunk Extension
 
-The CoinTrunk Extension is the self-custodial browser wallet for BeeZee — currently in development — that adapts to the token you use, taking on its branding so it feels like that token's own wallet.
+The CoinTrunk Extension is the self-custodial browser wallet for BeeZee — not publicly available yet — that adapts to the token you use, taking on its branding so it feels like that token's own wallet.
 
 [**Visit CoinTrunk.io →**](https://cointrunk.io)
 
