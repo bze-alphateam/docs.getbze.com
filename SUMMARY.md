@@ -48,7 +48,7 @@
   * [Getting It Traded](apps/token-factory/markets-and-liquidity.md)
   * [Growing Your Community](apps/token-factory/growing-your-community.md)
   * [Making It Official](apps/token-factory/making-it-official.md)
-  * [Playbooks](apps/token-factory/playbooks.md)
+  * [Guides and Strategies](apps/token-factory/playbooks.md)
   * [Managing Your Token](apps/token-factory/managing-your-token.md)
 * [Communities](apps/communities/README.md)
   * [Overview](apps/communities/overview.md)

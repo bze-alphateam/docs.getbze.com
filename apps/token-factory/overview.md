@@ -14,38 +14,74 @@ layout:
 
 # Overview
 
-Token Factory lets anyone create their own token in minutes and then do everything a token needs: get it traded, give people a reason to hold it, reach new people, and make it official in every wallet.
+Token Factory lets anyone create their own token in minutes and then do everything a token needs: get it traded, give people a reason to hold it, reach new people, and get its logo into every wallet.
 
 Your token works everywhere on BeeZee: it can be traded on the DEX, sent to other blockchains, and, once it has a liquidity pool with BZE, even used to pay the network's fees.
 
-## Start from a goal
+## Getting around
 
-The home page asks one question: **What do you want to do?** Instead of technical menus, it lists goals in four groups, in the order most projects need them:
+The menu at the top has three places:
 
-1. **Start**: Create my token.
-2. **Get it traded**: Let people buy and sell it (a liquidity pool), Make trading smoother (add liquidity), Allow limit orders (an order-book market).
-3. **Grow the community**: Make my token stakable, Gift my stakers once, Reach another community, Send to a list of wallets, Run a campaign with an end date, Give a little every day.
-4. **Make it official**: Get my logo in every wallet, Give it a look (brand kit), Prove the supply is fixed.
+* **Create**: the home page, where you start something new.
+* **Tokens**: every token made with Token Factory, with the ones you created pinned on top. See [Managing Your Token](managing-your-token.md).
+* **Rewards**: every staking reward on BeeZee, found by the token people stake. See [Growing Your Community](growing-your-community.md#the-rewards-directory).
 
-Each goal card shows a one-line description, a small grey tag with the technical name (handy if you already know BeeZee) and, when there is one, the current creation fee. Goals that work on a token first ask **Which token?**, listing your own tokens first. Below the groups, **All tools** gives quick links to every form, including the **Burner** app for burning tokens.
+You can browse Tokens and Rewards without connecting a wallet. Everything you see is read straight from the network.
 
-## Search in everyday words
+## Six starting points
 
-You don't need to know what a feature is called. Type what you want in the search box at the top, say *airdrop*, *add a logo*, *list my token* or *make it stakable*, and the matching goals appear. Your own tokens show up too, so typing a ticker opens that token.
+The home page asks **What are you building today?** and offers six starting points:
+
+| Starting point | What it does |
+| --- | --- |
+| **Create a token** | Name, ticker and supply, minted to your wallet. Marked **Start here**. |
+| **Create a DEX market** | Let people swap a pair instantly, or trade it with limit orders. |
+| **Create staking rewards** | Pay people for staking a token: any token, not only yours. |
+| **Grow a community** | Airdrops, a list of wallets, raffles, or reaching another community. |
+| **Create a DAO** | Coming soon. |
+| **Create a trading contest** | Coming soon. |
+
+A starting point with options first opens a short **Choose** screen that compares them side by side, then takes you into the steps:
+
+* **Create a DEX market** → **Liquidity pool** or **Order-book market**. See [Getting It Traded](markets-and-liquidity.md).
+* **Create staking rewards** → **Simple reward** or **Compounded reward**, plus shortcuts for adding to a reward that already exists. See [Growing Your Community](growing-your-community.md).
+* **Grow a community** → **Airdrop to stakers**, **Send to a list of wallets**, **Run a burning raffle** or **Reach another community**. See [Growing Your Community](growing-your-community.md).
 
 {% hint style="info" %}
-**Keyboard shortcut.** Press `/` anywhere on the home page to jump to the search box. Use the arrow keys to pick a result and Enter to open it; Esc closes the results.
+**DAO and trading contests aren't available yet.** Their tiles are shown dashed and marked **Coming soon**; they open nothing until they ship.
 {% endhint %}
 
-## Follow a playbook
+## Work on something that exists
 
-New here? **Playbooks** are proven recipes that chain several goals step by step, for example taking a token from nothing to traded, rewarded and listed in wallets. You can leave any time; your progress stays.
+Below the starting points, **Work on something that exists** is for tokens and rewards that are already on BeeZee. You don't have to be the one who created them:
 
-## Manage what you made
+* **Extend or fund a reward**: add days, a daily prize or an airdrop to any reward. It opens [Rewards](growing-your-community.md#the-rewards-directory).
+* **Manage a token**: mint, edit details, logo and permissions. It opens [Tokens](managing-your-token.md); the actions that need the token's admin only appear for the admin, checked live.
+* **Add or remove liquidity**: both live on the DEX, on each pool's page. See [Liquidity Pools](../dex/liquidity-pools.md).
 
-**Manage** opens **Your tokens**: every token created by your connected wallet, how far its setup is, and the pools and markets you created. Each token has its own page with tabs for its supply, profile, trading, rewards and control. The **Rewards** page lists every holder reward and staking program on BeeZee.
+## Pick up where you left off
 
-Before you sign anything, every form shows a **You will pay** panel with each cost, the network fee and whether your balance covers it.
+With your wallet connected, the home page welcomes you back and, when there is something to finish, shows **Pick up where you left off** above a compact list of the starting points:
+
+* a token you started creating in this browser, with the step you reached;
+* a list of wallets you haven't finished sending;
+* one suggestion for each token you created, read from the network: for example **Create a $PAGE/BZE pool** when nobody can buy it yet, **Make $PAGE stakable**, **Reward $PAGE/BZE liquidity**, or **Extend the daily prize** when one is about to end.
+
+## How every flow works
+
+Every flow in Token Factory follows the same four beats: **Pick**, **Fill in**, **Review**, **Done**.
+
+* **One step at a time.** The current step is one open card, headed "Step 2 of 4" and its name. Steps you finished shrink to a one-line summary with an **Edit** button, and the steps still to come are greyed out. Scrolling only scrolls: it never moves you to another step.
+* **No wallet needed to fill in.** You can explore every flow before connecting.
+* **What will happen.** Next to the steps (below them on a phone), a live panel shows what you are about to create and, under **You will pay**, each cost, the network fee and whether your balance covers it.
+* **The Review is always last.** It shows what **leaves your wallet**, what **you get**, and what is **permanent**, before you sign.
+* **Then a Done screen.** It celebrates what you made and proposes one **Recommended next** step, carrying what you just created, plus two or three others. If you came from a token's page, a **Back to** button takes you there.
+
+Creation fees are set by the network and can change through governance, so the app always reads the current amount for you. Check the **You will pay** panel, or a [block explorer](https://explorer.getbze.com/), rather than relying on a fixed number. If the app can't read a fee, it stops and asks you to refresh instead of guessing.
+
+{% hint style="info" %}
+**Guides and strategies.** The app keeps a link to these docs at the bottom of the home page. For step-by-step recipes that combine several flows, see [Guides and Strategies](playbooks.md).
+{% endhint %}
 
 {% content-ref url="creating-a-token.md" %}
 [creating-a-token.md](creating-a-token.md)
@@ -63,12 +99,12 @@ Before you sign anything, every form shows a **You will pay** panel with each co
 [making-it-official.md](making-it-official.md)
 {% endcontent-ref %}
 
-{% content-ref url="playbooks.md" %}
-[playbooks.md](playbooks.md)
-{% endcontent-ref %}
-
 {% content-ref url="managing-your-token.md" %}
 [managing-your-token.md](managing-your-token.md)
+{% endcontent-ref %}
+
+{% content-ref url="playbooks.md" %}
+[playbooks.md](playbooks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

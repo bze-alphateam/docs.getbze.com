@@ -12,50 +12,45 @@ layout:
     visible: true
 ---
 
-# Playbooks
+# Guides and Strategies
 
-Each tool in Token Factory is useful on its own; combined, they're much more powerful. **Playbooks** are proven recipes that chain them step by step. You find them on the home page under **New here? Follow a playbook**.
+Each flow in Token Factory is useful on its own; combined, they're much more powerful. These guides are proven strategies that chain several flows, step by step. You follow them yourself, at your own pace: there is nothing to start in the app. After each action, the app's Done screen suggests the next step anyway, so you rarely have to look far.
 
-## The three playbooks
+Each step links to the page that explains its flow.
 
-### Launch a community token
+## Launch a community token
 
-From nothing to a token people can buy, stake and find in their wallets. Five steps, about 20 minutes plus the registry review.
+From nothing to a token people can buy, stake and find in their wallets. Four steps, about 20 minutes plus the registry review.
 
-1. **Create my token**.
-2. **Let people buy and sell it**: create a pool.
-3. **Make it stakable**: create holder rewards, then start a daily prize.
-4. **Get my logo in every wallet**: the registry guide.
-5. **Prove the supply is fixed**: review and lock. Do it last: it cannot be undone.
+1. **Create your token.** Home → **Create a token**. See [Creating a Token](creating-a-token.md).
+2. **Let people buy and sell it.** Create a liquidity pool, usually paired with BZE. Home → **Create a DEX market** → **Liquidity pool**. See [Getting It Traded](markets-and-liquidity.md#create-a-liquidity-pool).
+3. **Make it stakable.** Create a compounded reward, then add a daily prize so stakers have something to earn. Home → **Create staking rewards** → **Compounded reward**. See [Growing Your Community](growing-your-community.md#compounded-reward).
+4. **Get your logo in every wallet.** Run the registry guide from your token's page. See [Making It Official](making-it-official.md#get-your-logo-in-every-wallet).
 
-### Get noticed by another community
+{% hint style="danger" %}
+**Optional, and permanent: renouncing admin.** Some projects eventually give up admin so everyone sees **Fixed supply** and knows no more tokens can ever be minted. It's not part of the launch: it lives on your token's page under **Permissions**, and it can never be undone. A description or brand kit you haven't added by then can never be added. See [Renounce admin](managing-your-token.md#renounce-admin).
+{% endhint %}
+
+## Get noticed by another community
 
 Gift your token to people staking a bigger token, so they discover yours. Two steps, about 5 minutes.
 
-1. **Pick a community and gift**: your token lands in the wallets of everyone staking theirs.
-2. **Make yours stakable**: the people you reached can stake what they got and earn more of it.
+1. **Pick a community and gift.** Your token lands in the wallets of everyone staking theirs, once or every day. Home → **Grow a community** → **Reach another community**. See [Reach another community](growing-your-community.md#reach-another-community).
+2. **Make yours stakable.** The people you reached can stake what they got and earn more of it. See [Compounded reward](growing-your-community.md#compounded-reward).
 
-### Reward liquidity providers
+{% hint style="success" %}
+**For example.** The book club gifts 30 days of **$PAGE** to everyone staking **$GUILD**. Because $PAGE is already stakable, guild members who like it stake it too, and keep earning $PAGE from the book club's own daily prize.
+{% endhint %}
+
+## Reward liquidity providers
 
 Pay people who add to your pool, so trading stays smooth. Two steps, about 5 minutes.
 
-1. **Let people buy and sell it**: skip this when your token already has a pool.
-2. **Run a 30-day campaign on the LP token**: people who add to the pool stake their LP tokens and earn your token.
-
-## How a playbook works
-
-Open a playbook and choose **which token it's for** (in *Launch a community token*, the token you create in step 1). Each step shows why it matters and a button to its form; when you finish the form, it brings you back to the playbook.
-
-The current step is highlighted, and done steps shrink to a single sentence. Token Factory checks most steps on the network every time you visit, so a pool or holder rewards you set up some other way count too. A few steps can't be checked that way, like a gift to another community; those have a **Mark as done** link, and finishing their form marks them for you.
-
-{% hint style="info" %}
-**Leave any time, your progress stays.** The token you chose and the steps you marked are kept in this browser. On the home page, each playbook card shows how far you've got.
-{% endhint %}
-
-When every step is done, the playbook says what your token can now do, with a button **Back to the Factory**.
+1. **Let people buy and sell it.** Skip this when your token already has a pool. See [Create a liquidity pool](markets-and-liquidity.md#create-a-liquidity-pool).
+2. **Run a 30-day simple reward on the LP token.** People who add to the pool on the DEX stake their LP tokens and earn your token. Use **Reward LPs** on your token's page, or the pool's Done screen. See [Simple reward](growing-your-community.md#simple-reward).
 
 {% hint style="success" %}
-**For example.** The gaming guild has just created **$GUILD** with a pool. It opens *Reward liquidity providers*, picks $GUILD, and the pool step is already ticked. One click on **Start the campaign** opens the form with the $GUILD–BZE LP token filled in; 30 days later, the guild's pool is deeper than ever.
+**For example.** The gaming guild has just created **$GUILD** with a $GUILD/BZE pool. The pool's Done screen offers **Reward liquidity providers**; the guild picks the LP token, a daily $GUILD amount and 30 days. A month later, the pool is deeper than ever, and anyone can extend the reward from **Rewards**.
 {% endhint %}
 
 {% content-ref url="managing-your-token.md" %}
