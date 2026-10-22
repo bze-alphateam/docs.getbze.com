@@ -21,6 +21,10 @@ Besides its holders pool, a token can have **staking programs**: campaigns with 
 
 The token you stake in a program is locked on its own, separate from the holders pool, with the program's own unlock time.
 
+{% hint style="info" %}
+**Called simple rewards elsewhere.** The DEX and Token Factory call these programs **simple rewards**, and the holders pool a **compounded reward**. They're the same rewards under other names.
+{% endhint %}
+
 {% content-ref url="holders-pool.md" %}
 [holders-pool.md](holders-pool.md)
 {% endcontent-ref %}

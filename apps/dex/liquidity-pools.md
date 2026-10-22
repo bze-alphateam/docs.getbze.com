@@ -40,7 +40,7 @@ Open any pool to see its **Pool Details**:
 * **Total Liquidity**, **Volume (24h)** and **Fees (24h)**: how big the pool is, how much traded through it in the last day, and the fees that trading paid.
 * **APR**: an estimate of the yearly return for liquidity providers, based on current conditions.
 * **Locked Forever**: liquidity that has been sent to the Burner and can never be withdrawn by anyone. It's a strong sign of commitment, because that part of the pool can't be pulled out from under traders. Select **See in Burner App** to see it on the token's page there.
-* **Locked in Boost Rewards**: liquidity that providers have locked into reward programs (see [Boost Rewards](#boost-rewards) below).
+* **Locked in Boost Rewards**: liquidity that providers have locked into simple rewards (see [Boost Rewards](#boost-rewards) below).
 * **Trading Fee**: the pool's fee on every swap, and how it's split between **LP Rewards** (you, the liquidity providers), **Protocol** (development and maintenance) and **Buyback & Burn**, which uses its share to buy back BZE and burn it.
 
 Some pools also show a **Supported by BZE Community** box. It means the BZE Community validator on the other token's home chain puts its whole commission towards keeping this pool deep. If you hold that token on its home chain, **Delegate to BZE Community** lets you stake it there, earning staking rewards while helping this pool.
@@ -68,29 +68,29 @@ Once you've added liquidity, **Your Shares** shows your **LP Shares**, what they
 
 ## Boost Rewards
 
-Some pools let you go a step further. In the **Boost Rewards** tab you can **lock your LP shares** into a reward program to earn **extra token rewards** on top of your normal share of trading fees.
+Some pools let you go a step further. In the **Boost Rewards** tab you can **lock your LP shares** into a simple reward to earn **extra token rewards** on top of your normal share of trading fees.
 
-A pool can have several programs at once, so start by choosing one under **Select a Staking Reward**. Each program card shows:
+A pool can have several simple rewards at once, so start by choosing one under **Select a Simple Reward**. Each card shows:
 
-* **Daily Distribution**: how much the program shares out each day, between everyone locked in it.
+* **Daily Distribution**: how much the reward shares out each day, between everyone locked in it.
 * **Unlock Period**: how many days you wait for your LP shares after you unlock them.
-* **Remaining Days**: how many of the program's days are left. Programs marked **Ended** can't be joined.
+* **Remaining Days**: how many of its days are left. Rewards marked **Ended** can't be joined.
 
-Then enter the **Amount of LP Shares to Lock**. Programs can set a **minimum**, and the app tells you if your first lock is below it. Before you commit, it shows your **Estimated Daily Rewards** (and the program's new APR, if your stake changes it noticeably) along with the **Unlocking Period**. Select **Lock LP Shares** to join.
+Then enter the **Amount of LP Shares to Lock**. Simple rewards can set a **minimum**, and the app tells you if your first lock is below it. Before you commit, it shows your **Estimated Daily Rewards** (and the reward's new APR, if your stake changes it noticeably) along with the **Unlocking Period**. Select **Lock LP Shares** to join.
 
 Your locked shares then appear under **Your Shares**, with what they're earning each day:
 
 * **Claim** collects the boost rewards you've earned so far.
-* **Unlock** starts the unlock period for your shares in that program. They come back after the waiting time, and the countdown shows under **Your Shares** until they do.
+* **Unlock** starts the unlock period for your shares in that reward. They come back after the waiting time, and the countdown shows under **Your Shares** until they do.
 
-Boost programs are listed on the DEX's **Staking** page too, so you can also follow, claim and unstake them from there.
+Boost Rewards are simple rewards, so they're listed under **Simple rewards** on the DEX's **Staking** page too, so you can also follow, claim and unstake them from there.
 
 {% hint style="warning" %}
 **Locking has a lock-up.** While your LP shares are locked, you can't remove that liquidity, and when you decide to unlock there's a **waiting time** before you get them back, during which they earn nothing. You can unlock whenever you like, but the waiting time always applies. Only lock what you're comfortable leaving in place.
 {% endhint %}
 
 {% hint style="success" %}
-**For example.** The book club seeds a **$PAGE–BZE** pool so members can swap in and out easily. A few keen members add liquidity, earn a cut of every trade, and then lock their LP shares in a Boost Rewards program to pick up extra $PAGE on top. And because the pool exists, members can now pay their fees in $PAGE too.
+**For example.** The book club seeds a **$PAGE–BZE** pool so members can swap in and out easily. A few keen members add liquidity, earn a cut of every trade, and then lock their LP shares in Boost Rewards to pick up extra $PAGE on top. And because the pool exists, members can now pay their fees in $PAGE too.
 {% endhint %}
 
 ## Halted pools

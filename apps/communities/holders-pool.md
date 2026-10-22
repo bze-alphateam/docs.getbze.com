@@ -18,6 +18,10 @@ A **holders pool** is the simplest way to put a community token to work: you sta
 
 You'll find it at the top of the **Stake** section on the token's page in the Communities app.
 
+{% hint style="info" %}
+**Called a compounded reward elsewhere.** The DEX and Token Factory call a holders pool a **compounded reward**. It's the same reward: stake on the DEX's **Staking** page or here, and it's the same stake.
+{% endhint %}
+
 {% content-ref url="token-pages.md" %}
 [token-pages.md](token-pages.md)
 {% endcontent-ref %}
