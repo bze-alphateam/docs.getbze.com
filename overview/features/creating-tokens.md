@@ -22,7 +22,7 @@ As a token creator you can:
 * **Gift your stakers** — split an amount between everyone staking your token, in one go.
 * **Reach other communities** — gift your token to the people who stake another coin, putting it in front of an audience that is already active.
 * **Send to a list of wallets** — pay contest winners, a snapshot or a spreadsheet of addresses in one go.
-* **Run campaigns** — staking programs with an end date, for example to reward the people who add liquidity to your pool.
+* **Run campaigns** — simple rewards with an end date, for example to reward the people who add liquidity to your pool.
 * **Get your logo in every wallet** — Token Factory walks you through listing your token in the Cosmos Chain Registry.
 * **Reward traders _(coming soon)_** — reward the people who trade your token in a chosen market.
 * **Pay fees in your own token** — set up a liquidity pool between your token and BZE, and your token can be used to pay the network's fees.

@@ -18,7 +18,7 @@ The BeeZee DEX lets you trade coins and tokens directly from your wallet, with n
 
 * **Instant swaps** through liquidity pools.
 * **Order-book markets** for placing buy and sell orders at the price you want.
-* **Earning**: provide liquidity for a share of trading fees, lock it in Boost Rewards, claim your BZE staking rewards, join staking programs, and stake tokens in their holders pools for daily prizes and airdrops.
+* **Earning**: provide liquidity for a share of trading fees, lock it in Boost Rewards, claim your BZE staking rewards, join simple rewards, and stake tokens in their compounded rewards for daily prizes and airdrops.
 
 Anyone can create a market or a pool for any token, and fees are kept low. Because every trade settles on the blockchain, you always keep custody of your assets.
 
