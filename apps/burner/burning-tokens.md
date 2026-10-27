@@ -69,6 +69,8 @@ Click any coin in these lists to open its page.
 
 Not all burning is manual. Part of the fees collected across the whole BeeZee ecosystem is routed to the pot automatically, and the scheduled burn destroys it along with everything else. So supply keeps gently shrinking in the background, even when nobody is burning coins by hand. Your own burns simply add to that steady drip, and so do [burning raffles](burning-raffles.md), whose leftover pots are burned when they end.
 
+How often the scheduled burn runs is a network setting: see [Burner Parameters](../../overview/parameters/burner.md).
+
 {% hint style="success" %}
 **For example.** The book club wraps up its reading year and decides to burn a stack of unused **$PAGE** from its treasury. A member clicks **Burn coins**, picks $PAGE, enters the amount and confirms. The $PAGE shows up under **Ready to Burn**, and when the countdown hits zero it's destroyed together with everything else in the pot, then appears in the **Burn History Book** for every member to see.
 {% endhint %}

@@ -44,6 +44,8 @@ To learn more about how this works across the whole network:
 [fee-token.md](../overview/features/fee-token.md)
 {% endcontent-ref %}
 
+Why some actions cost more than a normal transaction (extra gas and feature fees), and where every fee goes: see [Network Parameters](../overview/parameters/README.md).
+
 ## Advanced
 
 {% hint style="info" %}
