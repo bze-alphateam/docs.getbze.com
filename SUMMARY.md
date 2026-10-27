@@ -12,6 +12,7 @@
     * [Cross-Chain Transfers](overview/features/cross-chain-transfers.md)
     * [Building Communities](overview/features/building-communities.md)
     * [Any Token as a Fee Token](overview/features/fee-token.md)
+    * [USDC and Retired Tokens](overview/features/usdc-and-retired-tokens.md)
     * [Simple Solutions](overview/features/simple-solutions.md)
   * [CoinTrunk Project](overview/cointrunk/README.md)
     * [Decentralized Content Sharing](overview/cointrunk/decentralized-content-sharing.md)
