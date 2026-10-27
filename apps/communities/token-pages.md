@@ -14,11 +14,11 @@ layout:
 
 # Token Pages
 
-Every community token gets its own page in the Communities app, and that page is built to be the **project's own website**. There's no BeeZee menu bar and no shared directory around it: just the token's name, its colours, its font and everything its community offers, from staking to trading to burns. A project can share the link as its home on the web.
+Every community token gets its own page in the Communities app, and that page is built to be the **project's own website**. There's no BeeZee menu bar and no shared directory around it: just the token's name, its colours, its font and everything its community offers, from staking to trading to burns. A project can share the link as its home on the web, and the link preview carries the token's name, ticker and description.
 
 ## Made in the project's colours
 
-The page is drawn with the token's **brand kit**: its background, text, primary and secondary colours, and its font. The creator sets these in Token Factory, with separate colours for light and dark mode. Switch between the two with the moon or sun button in the header and the page follows the kit's colours for that mode. A token without a brand kit gets a clean default look.
+The page is drawn with the token's **brand kit**: its background, text, primary and secondary colours, and its font. The creator sets these in Token Factory, starting from a ready-made template or picking every colour by hand, with separate colours for light and dark mode. Switch between the two with the moon or sun button in the header and the page follows the kit's colours for that mode. A token without a brand kit gets a clean default look.
 
 {% content-ref url="../token-factory/making-it-official.md" %}
 [making-it-official.md](../token-factory/making-it-official.md)
@@ -26,7 +26,7 @@ The page is drawn with the token's **brand kit**: its background, text, primary 
 
 ## Finding your way around
 
-The header shows the token's logo and name, links to each part of the page (**Stake**, **Earn**, **Trade**, **Burn** and **Token**), the light/dark switch and your wallet button. A section only appears in the menu when the page has it: **Earn** needs something that pays the token, and **Trade** needs a liquidity pool. On a phone the links fold into a menu, and a bar at the bottom keeps **Get TICKER** and **Stake TICKER** within thumb's reach.
+The header shows the token's logo and name, links to each part of the page (**Stake**, **Earn**, **Trade**, **Burn** and **Token**), the light/dark switch and your wallet button. A section only appears in the menu when the page has it: **Earn** needs something that pays the token, and **Trade** needs a liquidity pool. On a phone the links fold into a menu (which also holds **Settings**), and a bar at the bottom keeps **Get TICKER** and **Stake TICKER** within thumb's reach.
 
 The wallet button shows your balance of the token once you're connected, or **Connect** before that. It opens the page's own wallet, covered in [Getting a Token](getting-a-token.md).
 
@@ -124,7 +124,7 @@ When a burning raffle is running for the token, a **Burn raffle** card appears u
 **Buy tickets** opens a small form: choose how many **Tickets**, check the **Total cost** and **Each ticket's chance**, and buy. Each ticket is then drawn, one per block, and marked **Won** with its amount or **No win**. You can close the window while it draws; the remaining results arrive as notifications. **Recent winners** lists the latest winners and what they took home.
 
 {% hint style="info" %}
-**Raffles aren't started from the apps.** There's no button to launch a raffle on a token page, or anywhere else in the apps. When one is running for a token, its page shows the raffle card automatically.
+**Raffles are started in Token Factory.** There's no button to launch one on the token page itself: whoever wants to run a raffle for a token starts it in Token Factory (see [Run a burning raffle](../token-factory/growing-your-community.md#run-a-burning-raffle)). When one is running, the token's page shows the raffle card automatically.
 {% endhint %}
 
 {% content-ref url="../burner/burning-raffles.md" %}

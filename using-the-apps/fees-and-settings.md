@@ -18,11 +18,11 @@ The **Settings** toggle sits at the top of every BeeZee app, next to the Wallet 
 
 ## Appearance
 
-Switch between **dark** and **light** mode, whichever is easier on your eyes. Your choice sticks the next time you visit.
+Flip the **Dark Mode** switch to move between dark and light mode, whichever is easier on your eyes. It changes right away, and your choice sticks the next time you visit.
 
 ## Preferred fee token
 
-Every action on BeeZee costs a small network fee. By default that's paid in BZE — but you don't have to stop there. You can choose to pay your fees in **another token instead**. Pick it from the **Preferred Fee Token** list here, and the app takes care of the rest quietly in the background.
+Every action on BeeZee costs a small network fee. By default that's paid in BZE — but you don't have to stop there. You can choose to pay your fees in **another token instead**. Pick it from the **Preferred Fee Token** list here and click **Save Settings**, and the app takes care of the rest quietly in the background.
 
 The list only offers tokens that can actually pay fees right now. A token qualifies when:
 
@@ -47,5 +47,5 @@ To learn more about how this works across the whole network:
 ## Advanced
 
 {% hint style="info" %}
-**For power users, optional.** If you run your own BeeZee node or prefer a specific provider, the advanced settings let you point the app at your own network endpoints instead of the defaults. Most people never need to touch this — the app works out of the box.
+**For power users, optional.** If you run your own BeeZee node or prefer a specific provider, the **BeeZee Endpoints** section lets you point the app at your own REST and RPC endpoints instead of the defaults. **Validate Endpoints** checks them, **Save Settings** applies them, and **Reset to Defaults** puts everything back. Most people never need to touch this — the app works out of the box.
 {% endhint %}

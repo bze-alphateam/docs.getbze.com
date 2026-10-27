@@ -37,6 +37,7 @@
   * [Overview](apps/staking/overview.md)
   * [Staking Your BZE](apps/staking/staking-your-bze.md)
   * [Managing Your Stake](apps/staking/managing-your-stake.md)
+  * [Voting on Proposals](apps/staking/governance-voting.md)
 * [Burner](apps/burner/README.md)
   * [Overview](apps/burner/overview.md)
   * [Burning Tokens](apps/burner/burning-tokens.md)

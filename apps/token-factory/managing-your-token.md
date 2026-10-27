@@ -27,21 +27,17 @@ Select a token to open its page. Admin rights are checked on the network every t
 
 ## The token's page
 
-At the top you see the token's name and ticker, its token ID with a copy button, and its **Supply**, how much **You hold** and how much is **Staked**, with links to the token in the [Communities app](../communities/token-pages.md) and on the DEX. Badges tell anyone at a glance where it stands:
+At the top you see the token's name and ticker, its token ID with a copy button, and its **Supply**, how much **You hold** and how much is **Staked**, with links to the token in the [Communities app](../communities/token-pages.md) and on the explorer. Badges tell anyone at a glance where it stands:
 
 * **Mintable**: someone is still the admin and could mint more.
 * **Fixed supply**: admin was renounced, so no new tokens can ever be minted.
 * With your wallet connected, your own role: for example **Created by you · you are admin**, or **You are admin** on a token someone handed to you.
 
-### Setup chips
-
-A row of chips shows how far the token's setup is, for example "Getting there · 3 of 5", or **All set** when everything is done: **Created**, **Pool**, **Stakable**, **Logo in wallets** and **Brand kit**. Select a chip to jump to the section that has its action. The chips are read from the network, so they stay current however each step was done, by you or anyone else. The brand kit chip says **Admin only** when you aren't the admin.
-
 ### Supply
 
-* **Mint tokens** (admin only): create more of the token, straight to your wallet. The form shows the new total supply. It costs only the network fee.
+* **Mint tokens** (admin only): select **Mint** to create more of the token, straight to your wallet. The form shows the new total supply. It costs only the network fee.
 * **Burn tokens**: anyone can destroy the tokens they hold, in the [Burner](../burner/burning-tokens.md) app.
-* **Burning raffle**: the raffle running for this token (its pot, ticket price, win chance and time left), or **Start raffle** to run one. See [Growing Your Community](growing-your-community.md#run-a-burning-raffle).
+* **Run a burning raffle**: **Start raffle** to run one, or, while one is running, its pot, ticket price, win chance, what a winner gets and the time left, with a link to it on Burner. See [Growing Your Community](growing-your-community.md#run-a-burning-raffle).
 
 {% hint style="warning" %}
 **Minting more lowers the share every holder owns.** Use it thoughtfully: minting a lot, or often, can shake holders' trust.
@@ -49,22 +45,22 @@ A row of chips shows how far the token's setup is, for example "Getting there ·
 
 ### Details and look
 
-* **Name, logo, description**: what wallets and the DEX show. The admin can edit the name and description and saves the change on-chain after a review; wallets and explorers pick it up right away. The ticker, token ID and decimals can never change.
-* **Logo in every wallet**: the registry guide, or **Listed in the registry ✓** once it's done. See [Making It Official](making-it-official.md).
-* **Brand kit** (admin only to set): the colours and font of the token's Communities page.
+* **Name, logo, description**: what wallets and the DEX show. Select **View** to see them. The admin can edit the name and description and saves the change on-chain after a review; wallets and explorers pick it up right away. The ticker, token ID and decimals can never change.
+* **Get your logo in every wallet**: **View** opens the registry guide; once it's done, the item reads **Listed in the registry ✓**. See [Making It Official](making-it-official.md).
+* **Brand kit**: a small preview of the colours and font of the token's Communities page. The admin gets **Edit brand kit**, which opens the brand kit editor, and can remove the kit. See [Making It Official](making-it-official.md#give-it-a-look-the-brand-kit).
 
 ### Trading
 
-Where the token can be traded: its liquidity pools and order-book markets, whoever created them, with links to each on the DEX, where you can add or remove liquidity. **Reward LPs** creates a simple reward for a pool's LP token, and **Pair with another token** opens a new pool or market. See [Getting It Traded](markets-and-liquidity.md).
+Where the token can be traded: its liquidity pools and order-book markets, whoever created them (the ones you created are marked), each with a **DEX** link, where you can add or remove liquidity. **Create DEX market** opens a new pool or market. See [Getting It Traded](markets-and-liquidity.md).
 
 ### Rewards
 
-Everything paying the token's stakers, and anyone can add to it:
+**Rewards on TICKER** lists everything paying the token's stakers, the same way as in [Rewards](growing-your-community.md#the-rewards-directory), and anyone can add to it:
 
-* **Compounded reward**: how much is staked, the unstaking wait, the minimum stake, the prize tokens used and each daily prize (with **Extend prize** and when it was last paid), plus **Add daily prize** and **Airdrop to stakers**. If the token isn't stakable yet, **Make TICKER stakable**.
-* **Simple rewards** where people stake this token, and **Create a simple reward**.
+* **Compounded reward**: its unstaking lock, minimum stake and status, and each daily prize with **Extend**, plus **Add daily prize** and a **DEX** link to the reward's page. If the token isn't stakable yet, **Make TICKER stakable** has a **Create** button that leads to the compounded reward form.
+* **Simple rewards** where people stake this token or its LP shares, each with **Extend**, **Airdrop** once someone stakes it, and a **DEX** link.
 
-See [Growing Your Community](growing-your-community.md).
+To airdrop to the token's stakers, use **Airdrop tokens**. See [Growing Your Community](growing-your-community.md#airdrop-tokens).
 
 ## Permissions
 

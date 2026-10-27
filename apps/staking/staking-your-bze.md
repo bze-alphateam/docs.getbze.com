@@ -16,7 +16,7 @@ layout:
 
 Staking is the simplest way to put your BZE to work. You delegate some of your coins to a **validator** (one of the computers that keep the network running) and in return you earn a share of the rewards, including the new coins the network creates through inflation. You help keep BeeZee secure, and your coins stay yours the whole time: you only choose who to back, you never hand them over.
 
-Everything happens on one dashboard at [staking.getbze.com](https://staking.getbze.com). Before you can stake, connect a wallet with **Connect Wallet to Stake**.
+Everything happens on one dashboard at [staking.getbze.com](https://staking.getbze.com). Before you can stake, connect a wallet with **Connect Wallet to Stake** at the top of the page. If you open a validator's stake form first, it offers a **Connect Wallet** button of its own and comes back once your wallet is connected.
 
 {% content-ref url="../../using-the-apps/connecting-a-wallet.md" %}
 [connecting-a-wallet.md](../../using-the-apps/connecting-a-wallet.md)
@@ -24,7 +24,7 @@ Everything happens on one dashboard at [staking.getbze.com](https://staking.getb
 
 ## What the dashboard shows you
 
-At the top of the page, a row of cards shows what staking looks like right now:
+The top of the page shows the current staking APR, with **Browse validators** to jump straight to the validator list. When proposals are open for voting, a governance card sits next to it (see [Voting on Proposals](governance-voting.md)). Below that, a row of cards shows what staking looks like right now:
 
 * **Staking APR**: roughly what you can expect to earn over a year, with how much BZE is handed out to stakers each day.
 * **Network Staked**: how much BZE everyone has staked in total, with its approximate value in US dollars.
@@ -35,9 +35,9 @@ The figures come from the live network. If something looks out of date, for exam
 
 ## Choosing a validator
 
-Below the cards is **All Validators**, the list of validators you can delegate to. It shows only **active** validators (the ones currently producing blocks and earning rewards), largest first. Search it by name or address with **Search validators...**. Each entry tells you what you need to know at a glance:
+Below the cards is **All Validators**, the list of validators you can stake with. It shows only **active** validators (the ones currently producing blocks and earning rewards), largest first. Search it by name or address with **Search validators...**. Each entry tells you what you need to know at a glance:
 
-* **Rank and VP (voting power)**: how much is staked with that validator. This is a rough sign of how established and trusted it is.
+* **Rank and Voting power**: how much is staked with that validator. This is a rough sign of how established and trusted it is.
 * **Commission**: the cut the validator keeps from the rewards before passing the rest to you. Lower is more generous to you, but a healthy validator needs some commission to keep its machines running.
 
 As a rule of thumb, pick a validator with a **reasonable commission** that you trust to stay online. Spreading your stake across more than one validator is also a perfectly good idea.
@@ -46,23 +46,27 @@ As a rule of thumb, pick a validator with a **reasonable commission** that you t
 **Choose reliable validators.** A validator that goes offline for too long, or breaks the network's rules, can be penalised: it gets **jailed** (it stops earning rewards) and a small part of the BZE staked with it can be lost, **including yours**. Backing well-run validators, and spreading your stake, keeps that risk small. If a validator you back is ever jailed, the app warns you so you can move your stake (see [Managing Your Stake](managing-your-stake.md)).
 {% endhint %}
 
-## Delegating your BZE
+## Staking with a validator
 
 Once you have picked a validator, staking takes a few seconds:
 
 1. Select **Stake** next to the validator.
-2. Enter an amount. The **25%**, **50%**, **75%** and **Max** shortcuts fill it in for you. **Available** shows your BZE balance.
-3. Select **Delegate**, confirm the transaction in your wallet, and you are done. Rewards start adding up automatically.
+2. In the **Stake with …** window, check the validator's commission and enter an amount. The **25%**, **50%**, **75%** and **Max** shortcuts fill it in for you. **Available** shows your BZE balance.
+3. Select **Stake**, confirm the transaction in your wallet, and you are done. Rewards start adding up automatically.
 
 You can stake with the same validator again at any time: the new amount is simply added to what you already have staked with it.
 
 {% hint style="info" %}
-**The network fee is taken care of.** Every transaction costs a tiny fee in BZE, so the shortcuts (Max included) already leave enough for it in your wallet. If you type an amount that would leave too little behind, the app warns you and offers a one-click **Delegate … BZE instead** button with the largest amount you can stake.
+**The network fee is taken care of.** Every transaction costs a tiny fee in BZE, so the shortcuts (Max included) already leave enough for it in your wallet. If you type an amount that would leave too little behind, the app warns you and offers a one-click **Stake … BZE instead** button with the largest amount you can stake.
 {% endhint %}
 
 {% hint style="success" %}
 **Example:** you hold 1,000 BZE and select **Max**. The app fills in a little less than 1,000, keeping back just enough for the fee, so the transaction goes through and you still have BZE to claim rewards or unstake later.
 {% endhint %}
+
+## Sharing a stake link
+
+Want friends or your community to back a validator? Every validator in the list, and the stake form itself, has a small link icon, **Copy stake link**. It copies a link to the Staking app that opens the stake form for that validator straight away, with the validator highlighted in the list. Anyone who opens it only has to connect a wallet, enter an amount and confirm.
 
 That is all there is to it. Once your BZE is staked, you can watch your rewards grow, claim them, move your stake, or unstake at any time.
 
