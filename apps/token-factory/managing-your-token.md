@@ -33,6 +33,8 @@ At the top you see the token's name and ticker, its token ID with a copy button,
 * **Fixed supply**: admin was renounced, so no new tokens can ever be minted.
 * With your wallet connected, your own role: for example **Created by you · you are admin**, or **You are admin** on a token someone handed to you.
 
+Anyone can check the same on the BZE Explorer, where the token's page says **Nobody can create more** once the admin is renounced (see [Tokens](../explorer/tokens.md)).
+
 ### Setup chips
 
 A row of chips shows how far the token's setup is, for example "Getting there · 3 of 5", or **All set** when everything is done: **Created**, **Pool**, **Stakable**, **Logo in wallets** and **Brand kit**. Select a chip to jump to the section that has its action. The chips are read from the network, so they stay current however each step was done, by you or anyone else. The brand kit chip says **Admin only** when you aren't the admin.

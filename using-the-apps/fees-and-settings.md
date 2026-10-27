@@ -30,6 +30,8 @@ The list only offers tokens that can actually pay fees right now. A token qualif
 * that pool holds at least a **minimum amount of BZE**, set by the network, and
 * trading in it hasn't been paused.
 
+Paused tokens are listed under **Halted denoms** on the BZE Explorer's [Parameters page](../apps/explorer/parameters.md#halted-denoms).
+
 If the token you picked stops qualifying later — say its pool drops below the minimum — the app quietly switches you back to paying in BZE, so your transactions keep working.
 
 This is one of BeeZee's signature ideas: with a pool behind it, almost any token can pay the fees, so an app can feel like it was built entirely around that one token.
