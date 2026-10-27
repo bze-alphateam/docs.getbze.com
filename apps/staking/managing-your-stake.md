@@ -30,6 +30,8 @@ Once your BZE is staked, the [Staking app](https://staking.getbze.com) becomes y
 
 This is also the only place where validators that have **stopped earning** show up. The main validator list only shows active validators, but My Validators keeps every validator you still have stake with, so you can always act on it. If one of them is **jailed** (penalised and switched off for misbehaving or being offline) or otherwise inactive, its card is outlined in red, a **Jailed** badge appears when it applies, and a **Not Earning Rewards** box explains what is wrong. Right inside that box, **Move stake** lets you move it to a healthy validator in one step.
 
+To catch trouble even earlier, the [BZE Explorer](../explorer/validator-pages.md) shows a red **Offline** dot as soon as a validator stops signing blocks, before it gets jailed.
+
 {% hint style="warning" %}
 **Act quickly when you see "Not Earning Rewards".** Stake with a jailed or inactive validator earns nothing until you move it. Moving it fixes that right away.
 {% endhint %}

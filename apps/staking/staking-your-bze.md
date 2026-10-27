@@ -42,6 +42,8 @@ Below the cards is **All Validators**, the list of validators you can stake with
 
 As a rule of thumb, pick a validator with a **reasonable commission** that you trust to stay online. Spreading your stake across more than one validator is also a perfectly good idea.
 
+Want a shortlist? The BZE Explorer's [Validators Hall of Fame](../explorer/validators-hall-of-fame.md) lists the validators that vote on proposals, almost never miss a block and came back quickly after the last upgrade, and each [validator page](../explorer/validator-pages.md) shows its uptime, history and stake movements.
+
 {% hint style="warning" %}
 **Choose reliable validators.** A validator that goes offline for too long, or breaks the network's rules, can be penalised: it gets **jailed** (it stops earning rewards) and a small part of the BZE staked with it can be lost, **including yours**. Backing well-run validators, and spreading your stake, keeps that risk small. If a validator you back is ever jailed, the app warns you so you can move your stake (see [Managing Your Stake](managing-your-stake.md)).
 {% endhint %}

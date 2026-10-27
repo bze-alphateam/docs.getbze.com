@@ -24,6 +24,8 @@ For example, delegate your BZE to a validator you trust in the [Staking app](htt
 
 {% hint style="warning" %}
 **Choose reliable validators.** A validator that stays offline too long or breaks the network's rules can be penalised: it stops earning rewards, and a small part of the BZE staked with it, including yours, can be lost. Back well-run validators, spread your stake if you like, and move it if the app warns that a validator is **Not Earning Rewards**.
+
+Not sure who to pick? The BZE Explorer's [Validators Hall of Fame](../../apps/explorer/validators-hall-of-fame.md) is a shortlist of validators with a proven track record.
 {% endhint %}
 
 Staking also gives you a voice. Your staked BZE is your voting power on the proposals that change the network, and you can vote on them in the Staking app's **Governance** section. If you don't vote, your validator's vote counts for the BZE you staked with them.
