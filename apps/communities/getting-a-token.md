@@ -30,8 +30,7 @@ Not connected yet? The drawer asks you to **Connect wallet** first. Connecting w
 
 Once connected, the drawer opens with a card showing your **balance** of the token, its value in dollars when it has a price, and your address with a **Copy** button. Underneath, it adds up what you have elsewhere:
 
-* **Holders pool**: what you stake in the token's holders pool.
-* **Programs**: what you stake in its fixed-term programs.
+* **Staked**: everything you stake on this page, in the token's holders pool and its fixed-term programs together.
 * **Unlocking**: what's on its way back to you after an unstake.
 
 When you have rewards waiting, a **Rewards ready** row lists them, in every prize token, and tells you where they come from (the pool, one or more programs). **Claim all** collects them all in a single transaction.

@@ -21,3 +21,11 @@ A token brought in from another chain is treated as a first-class asset here —
 {% hint style="info" %}
 **For example.** Bring a token in from another chain, trade it on the BeeZee DEX, then send it back out whenever you like — moving it as freely as you would BZE.
 {% endhint %}
+
+## When a token is retired
+
+Occasionally a token is wound down on the chain it comes from, as happened with **USDC.n** from Noble. BeeZee can then close new deposits of that token, while still letting you send it back out at any time. If a transfer is refused, the tokens return to your address on the sending chain.
+
+{% content-ref url="usdc-and-retired-tokens.md" %}
+[usdc-and-retired-tokens.md](usdc-and-retired-tokens.md)
+{% endcontent-ref %}

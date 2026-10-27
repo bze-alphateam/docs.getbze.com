@@ -12,9 +12,18 @@
     * [Cross-Chain Transfers](overview/features/cross-chain-transfers.md)
     * [Building Communities](overview/features/building-communities.md)
     * [Any Token as a Fee Token](overview/features/fee-token.md)
+    * [USDC and Retired Tokens](overview/features/usdc-and-retired-tokens.md)
     * [Simple Solutions](overview/features/simple-solutions.md)
+  * [What's New](overview/whats-new.md)
   * [CoinTrunk Project](overview/cointrunk/README.md)
     * [Decentralized Content Sharing](overview/cointrunk/decentralized-content-sharing.md)
+  * [Network Parameters](overview/parameters/README.md)
+    * [Network Fees](overview/parameters/network-fees.md)
+    * [DEX](overview/parameters/dex.md)
+    * [Token Factory](overview/parameters/token-factory.md)
+    * [Rewards](overview/parameters/rewards.md)
+    * [Burner](overview/parameters/burner.md)
+    * [CoinTrunk](overview/parameters/cointrunk.md)
 
 ## Using the Apps
 
@@ -37,6 +46,7 @@
   * [Overview](apps/staking/overview.md)
   * [Staking Your BZE](apps/staking/staking-your-bze.md)
   * [Managing Your Stake](apps/staking/managing-your-stake.md)
+  * [Voting on Proposals](apps/staking/governance-voting.md)
 * [Burner](apps/burner/README.md)
   * [Overview](apps/burner/overview.md)
   * [Burning Tokens](apps/burner/burning-tokens.md)

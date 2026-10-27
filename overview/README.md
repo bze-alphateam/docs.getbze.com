@@ -31,7 +31,7 @@ The aim is an ecosystem where decentralized solutions are approachable — where
 
 ## The $BZE coin
 
-$BZE is the coin that powers the whole network: it pays transaction fees, secures the chain through staking, and gives holders a vote in governance. Its maximum supply is 400 million BZE, a cap the community chose together. A large share is locked in staking to keep the network secure, a community pool funds future development through governance, and part of the fees collected across the ecosystem is regularly burned to reduce supply over time.
+$BZE is the coin that powers the whole network: it pays transaction fees, secures the chain through staking, and gives holders a vote in governance. Its maximum supply is capped, at a limit the community chose together. A large share is locked in staking to keep the network secure, a community pool funds future development through governance, and part of the fees collected across the ecosystem is regularly burned to reduce supply over time.
 
 For the current circulating, total and maximum supply — along with the live staking APR — see the [BeeZee website](https://getbze.com).
 
@@ -47,6 +47,10 @@ The [BeeZee website](https://getbze.com) is the home for the project's general d
 
 {% content-ref url="features/README.md" %}
 [features](features/README.md)
+{% endcontent-ref %}
+
+{% content-ref url="whats-new.md" %}
+[whats-new.md](whats-new.md)
 {% endcontent-ref %}
 
 {% content-ref url="cointrunk/README.md" %}

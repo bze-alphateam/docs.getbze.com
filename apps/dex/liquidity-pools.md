@@ -30,7 +30,7 @@ The **Pools** tab lists every pool. You can **search** by token symbol and **sor
 * **Total Liquidity**: how much is in the pool. Deeper pools mean smaller price impact on trades.
 * **APR**: an estimate of the yearly return from fees, so you can compare pools at a glance.
 
-Pools you're already in are gathered at the top under **My Pools** (with a **Manage** button), and everything else sits under **All Pools**.
+Pools you're already in are gathered at the top under **My Pools**, with how much liquidity you have in each (**My Liquidity**) and a **Manage** button. Everything else sits under **All Pools**, where **View** opens a pool.
 
 ## Inside a pool
 
@@ -38,14 +38,14 @@ Open any pool to see its **Pool Details**:
 
 * **The two tokens and their Rate**: how much of each token the pool holds, and the price of one in the other, both ways round.
 * **Total Liquidity**, **Volume (24h)** and **Fees (24h)**: how big the pool is, how much traded through it in the last day, and the fees that trading paid.
-* **APR**: an estimate of the yearly return for liquidity providers, based on current conditions.
-* **Locked Forever**: liquidity that has been sent to the Burner and can never be withdrawn by anyone. It's a strong sign of commitment, because that part of the pool can't be pulled out from under traders. Select **See in Burner App** to see it on the token's page there.
+* **APR**: an estimate of the yearly return for liquidity providers: the providers' share of the last day's fees, compared with the pool's size and scaled up to a year. A quiet day lowers it, a busy one raises it.
+* **Locked Forever**: liquidity that has been sent to the Burner and can never be withdrawn by anyone. It's a strong sign of commitment, because that part of the pool can't be pulled out from under traders. The **Burner** link opens the pool's LP token in the Burner app, where you can see it.
 * **Locked in Boost Rewards**: liquidity that providers have locked into simple rewards (see [Boost Rewards](#boost-rewards) below).
 * **Trading Fee**: the pool's fee on every swap, and how it's split between **LP Rewards** (you, the liquidity providers), **Protocol** (development and maintenance) and **Buyback & Burn**, which uses its share to buy back BZE and burn it.
 
 Some pools also show a **Supported by BZE Community** box. It means the BZE Community validator on the other token's home chain puts its whole commission towards keeping this pool deep. If you hold that token on its home chain, **Delegate to BZE Community** lets you stake it there, earning staking rewards while helping this pool.
 
-Once you've added liquidity, **Your Shares** shows your **LP Shares**, what they're worth in each token (**Shares Assets**), and any **Boost Rewards** waiting for you.
+Once you've added liquidity, **Your Shares** shows your **LP Shares** (and your percentage of the pool), what they're worth in each token (**Shares Assets**), and any **Boost Rewards** waiting for you, with a **Claim** button whenever there's something to collect.
 
 ## Adding liquidity
 
@@ -78,12 +78,12 @@ A pool can have several simple rewards at once, so start by choosing one under *
 
 Then enter the **Amount of LP Shares to Lock**. Simple rewards can set a **minimum**, and the app tells you if your first lock is below it. Before you commit, it shows your **Estimated Daily Rewards** (and the reward's new APR, if your stake changes it noticeably) along with the **Unlocking Period**. Select **Lock LP Shares** to join.
 
-Your locked shares then appear under **Your Shares**, with what they're earning each day:
+Your locked shares then appear under **Your Shares**, which is tagged **Boosted**, with what they're earning each day:
 
 * **Claim** collects the boost rewards you've earned so far.
 * **Unlock** starts the unlock period for your shares in that reward. They come back after the waiting time, and the countdown shows under **Your Shares** until they do.
 
-Boost Rewards are simple rewards, so they're listed under **Simple rewards** on the DEX's **Staking** page too, so you can also follow, claim and unstake them from there.
+Boost Rewards are simple rewards, so they're listed on the DEX's **Staking** page too (its **LP** button shows just these), and you can also follow, claim and unstake them from there.
 
 {% hint style="warning" %}
 **Locking has a lock-up.** While your LP shares are locked, you can't remove that liquidity, and when you decide to unlock there's a **waiting time** before you get them back, during which they earn nothing. You can unlock whenever you like, but the waiting time always applies. Only lock what you're comfortable leaving in place.

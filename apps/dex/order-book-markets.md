@@ -68,6 +68,8 @@ The **Trading Fees** box on every market shows what you'll pay. Which fee applie
 
 In plain terms: if you're patient and let your order sit, you pay less; if you want it done *now* and grab an existing order, you pay a little more. Both fees are set by the network and can change, so the app always reads the current values. Click either one for details, including the network fee your order pays on top and what it costs in your chosen fee token.
 
+Where the trading fees go, and why a busy order book can add a little extra gas: see [DEX Parameters](../../overview/parameters/dex.md).
+
 {% hint style="success" %}
 **For example.** A gaming guild's **$GUILD** token trades against BZE. A member thinks it's a touch overpriced today, so instead of swapping they place a **buy** order a little below the current price and let it rest. A while later another trader sells into it, their order fills, and because their order waited in the book, they paid the small maker fee.
 {% endhint %}

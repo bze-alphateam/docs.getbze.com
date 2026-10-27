@@ -50,7 +50,7 @@ Add two tokens to a liquidity pool on the DEX and you earn a slice of the fee fr
 
 ## Everything in one place on the DEX
 
-The DEX's **Staking** page brings it together: your BZE staking, its **Simple rewards** and its **Compounded rewards**, with your own positions and pending rewards up front.
+The DEX's **Staking** page brings it together: BZE staking, simple rewards and compounded rewards in one list you can search and filter, with your own positions up front and a single **Claim** for everything you've earned. Each reward also has its own page, where you can see what an amount would earn before you stake it.
 
 {% content-ref url="../../apps/dex/staking-and-earning.md" %}
 [staking-and-earning.md](../../apps/dex/staking-and-earning.md)

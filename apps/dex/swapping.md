@@ -20,11 +20,11 @@ Swapping is the simplest way to trade on BeeZee: pick what you have, pick what y
 
 1. **Choose your "From" token**, the one you're paying with. The picker is searchable and shows your balances, so you always know what you can spend.
 2. **Choose your "To" token**, the one you want to receive. The round arrow button between the two swaps them around.
-3. **Enter an amount.** Type how much you want to spend, or use **MAX** and the **25% / 50% / 75% / 100%** shortcuts to spend part or all of your balance. You can also type the amount you'd like to *receive*, and the app works backwards to fill in the rest.
+3. **Enter an amount.** Type how much you want to spend, or use the **25%**, **50%**, **75%** and **Max** shortcuts to spend part or all of your balance. You can also type the amount you'd like to *receive*, and the app works backwards to fill in the rest. Under each amount you'll see roughly what it's worth in dollars.
 4. **Select Swap.** Your wallet asks you to approve, and the swap settles on the blockchain. No middleman ever holds your funds.
 
 {% hint style="info" %}
-**MAX and the percentage buttons keep the network fee back.** When you're spending the same token you pay fees with, they leave enough behind to cover the fee, so the swap doesn't fail for want of a few cents.
+**Max and the percentage buttons keep the network fee back.** When you're spending the same token you pay fees with, they leave enough behind to cover the fee, so the swap doesn't fail for want of a few cents.
 {% endhint %}
 
 Behind the scenes, your swap trades against **liquidity pools**: shared pots of two tokens that anyone can trade between. The app automatically finds the best path for your trade, and sometimes hops through several pools to get you a better result. Open **Trade Route** to see the tokens it passes through and each pool's fee along the way.
@@ -56,7 +56,7 @@ Tighter protection is safer, but in a fast-moving or thinly traded market a very
 The app tells you plainly what's happening:
 
 * **Insufficient Balance**: you don't have enough of the "From" token for the amount entered. Lower the amount or top up.
-* **Not enough left for fees**: you have the amount itself, but not the network and taker fees on top of it. Lower the amount a little (or use **MAX**, which works this out for you).
+* **Not enough left for fees**: you have the amount itself, but not the network and taker fees on top of it. Lower the amount a little (or use **Max**, which works this out for you).
 * **No Route Found**: there's no pool, or chain of pools, connecting those two tokens yet. Try a different pair, or someone can create a pool for it in Token Factory.
 
 Tokens marked **Trading halted** don't appear in the swap pickers at all, and routes never pass through their pools. See [Trading halted](assets.md#trading-halted) for what that means.
@@ -64,6 +64,16 @@ Tokens marked **Trading halted** don't appear in the swap pickers at all, and ro
 ## Your recent swaps
 
 With your wallet connected, **Your Recent Swaps** keeps a running history of what you've traded, so you can glance back at what went through without leaving the page.
+
+## Around the swap
+
+The rest of the page helps you find your way:
+
+* **BZE price**, **24h volume** and the number of pools, at a glance.
+* **Two ways to trade** compares swapping with the [order-book markets](order-book-markets.md), with **Open the exchange →** to head there.
+* **Top pools** lists the deepest pools, and their **Swap** button fills in that pair for you. **Order-book markets** lists active markets with their last price, and **Trade** opens one.
+
+On a larger screen you can also choose how the top of the page is laid out with the small switcher in its top-right corner: the swap in the centre (the standard layout), the market figures on the left with the swap beside them, or the swap on the left with the figures and your recent swaps on the right. Your choice is remembered on this device.
 
 {% hint style="info" %}
 Connecting your wallet, buying BZE, choosing your fee token and moving tokens in from other chains are shared across all the apps. See the [Using the Apps](../../using-the-apps/connecting-a-wallet.md) guides, and [Fees & Settings](../../using-the-apps/fees-and-settings.md) for paying fees in another token.

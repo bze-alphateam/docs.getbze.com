@@ -24,7 +24,7 @@ Creating your own token takes a few minutes and no coding. On the Token Factory 
 * **Ticker**: the short symbol people see everywhere, like $PAGE or $GUILD (3 to 12 letters and digits, starting with a letter). The ticker is permanent.
 * **Description** (optional): a sentence or two about what your token is for, up to 512 characters. Wallets show it, and you can add or change it later from your token's page.
 
-BeeZee gives your token a unique **token ID** made from your address and the ticker, so it can never clash with anyone else's. The app shows it as you type. If you already created a token with the same ticker, it asks you to pick another one.
+BeeZee gives your token a unique **token ID** made from your address and the ticker, so it can never clash with anyone else's. If you already created a token with the same ticker, it asks you to pick another one.
 
 ## Step 2: Supply
 
@@ -49,12 +49,13 @@ You can transfer or renounce admin later, on the token's page under **Permission
 
 **Everything right?** The Review lists:
 
-* **Leaves your wallet**: the token creation fee.
-* **You get**: the whole supply, in your wallet.
-* **Admin**: your wallet or the address you chose, and what the admin can do.
-* **Permanent**: the ticker in the token's address.
+* **You pay**: the token creation fee and the network fee.
+* **You get**: the new token, and the whole supply minted to you.
+* **Admin**: you, or the address you chose.
 
 The token creation fee is set by the network and can change through governance, so the app reads the current amount for you (you can also check it on a [block explorer](https://explorer.getbze.com/)).
+
+Why there's a fee and where it goes: see [Token Factory Parameters](../../overview/parameters/token-factory.md).
 
 Select **Create token** and confirm in your wallet. One transaction creates the token, mints the whole supply to you and saves its name and description.
 
@@ -64,14 +65,14 @@ Select **Create token** and confirm in your wallet. One transaction creates the 
 
 ## Your token is live
 
-The Done screen confirms your token is live and suggests what to do next, the recommended step first:
+The Done screen confirms your token is live, shows its token ID, and links to its token page. It then suggests what to do next, the recommended step first:
 
-* **Let people buy it**: create a liquidity pool.
+* **Create a DEX market**: a liquidity pool, an order book, or both, so people can buy and sell it.
+* **Create staking rewards**: pay people for staking it, so they hold it.
+* **Airdrop** it: to a list of wallets, or to the stakers of any token.
 * **Get your logo in every wallet**: the registry guide.
-* **Give it a look**: a brand kit for its Communities page.
-* **Allow limit orders too**: an order-book market.
 
-Do them now or later: they also wait for you on your token's page, as setup chips that tick themselves off when they are done.
+Do them now or later: each one is also on your token's page.
 
 {% hint style="danger" %}
 **Renouncing admin is permanent, and it's never a launch step.** Some projects later give up admin so nobody can ever mint more. That lives on the token's page under **Permissions**, behind its own review, and nothing in the app suggests it as a next step. Only do it once you are certain: nobody, you included, can ever mint or edit the token again. See [Managing Your Token](managing-your-token.md#renounce-admin).
