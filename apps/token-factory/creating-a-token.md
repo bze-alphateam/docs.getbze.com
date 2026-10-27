@@ -56,6 +56,8 @@ You can transfer or renounce admin later, on the token's page under **Permission
 
 The token creation fee is set by the network and can change through governance, so the app reads the current amount for you (you can also check it on a [block explorer](https://explorer.getbze.com/)).
 
+Why there's a fee and where it goes: see [Token Factory Parameters](../../overview/parameters/token-factory.md).
+
 Select **Create token** and confirm in your wallet. One transaction creates the token, mints the whole supply to you and saves its name and description.
 
 {% hint style="info" %}

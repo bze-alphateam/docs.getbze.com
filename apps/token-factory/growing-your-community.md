@@ -25,6 +25,8 @@ A token becomes a community when people have a reason to hold it, and when new p
 
 Every flow ends on a Review that shows what leaves your wallet before you sign. Creation fees are set by the network and can change through governance, so the app always reads the current amount; check the **You will pay** panel (or a [block explorer](https://explorer.getbze.com/)) rather than relying on a fixed number.
 
+Which actions have a fee, and where it goes: see [Rewards Parameters](../../overview/parameters/rewards.md).
+
 ## Simple or compounded?
 
 Pick **Create staking rewards** and the **Choose** screen asks **Which kind of reward?** Both pay people who stake a token. It can be any token, pool shares (LP tokens) included, and it doesn't have to be yours.

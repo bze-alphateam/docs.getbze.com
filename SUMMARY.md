@@ -15,6 +15,13 @@
     * [Simple Solutions](overview/features/simple-solutions.md)
   * [CoinTrunk Project](overview/cointrunk/README.md)
     * [Decentralized Content Sharing](overview/cointrunk/decentralized-content-sharing.md)
+  * [Network Parameters](overview/parameters/README.md)
+    * [Network Fees](overview/parameters/network-fees.md)
+    * [DEX](overview/parameters/dex.md)
+    * [Token Factory](overview/parameters/token-factory.md)
+    * [Rewards](overview/parameters/rewards.md)
+    * [Burner](overview/parameters/burner.md)
+    * [CoinTrunk](overview/parameters/cointrunk.md)
 
 ## Using the Apps
 
