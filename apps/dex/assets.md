@@ -55,13 +55,13 @@ A **Verified** badge is a helpful signal, not a guarantee of value. An unverifie
 
 ## Trading halted
 
-Very occasionally, BeeZee ends support for a token, and the network stops executing orders and swaps with it. Such a token gets a red **Trading halted** badge on the **Exchange**, **Pools** and **Assets** pages, and its page explains that it's no longer tradeable on BeeZee. From then on:
+Very occasionally, BeeZee ends support for a token, and the network stops executing orders and swaps with it. This is decided by a governance vote of BZE stakers, never by a single person. Such a token gets a red **Trading halted** badge on the **Exchange**, **Pools** and **Assets** pages, and its page explains that it's no longer tradeable on BeeZee. From then on:
 
 * **Order forms are locked** on its markets, and orders already in the book won't fill.
 * **Swaps skip it**: it disappears from the swap pickers, and routes never go through its pools.
 * **New liquidity can't be added** to its pools.
 
-Your funds are never stuck. You can still **cancel your open orders**, **remove your liquidity**, and **transfer or withdraw** the token.
+Your funds are never stuck. You can still **cancel your open orders**, **remove your liquidity**, and **transfer or withdraw** the token. A halted token can't be used to pay fees, though. For the full story, including why USDC.n is being retired, see [USDC and Retired Tokens](../../overview/features/usdc-and-retired-tokens.md).
 
 {% hint style="info" %}
 If you hold a halted token in an order or a pool, there's no rush and no penalty, but nothing more will happen there. Cancel the orders and remove the liquidity whenever suits you to bring the tokens back to your wallet.

@@ -24,7 +24,8 @@ BeeZee brings together everything you need to use, create, and grow — all in o
 6. [**Cross-Chain Transfers**](cross-chain-transfers.md) — move your assets between connected blockchains.
 7. [**Building Communities**](building-communities.md) — everything a project needs to run its own token.
 8. [**Any Token as a Fee Token**](fee-token.md) — let users pay fees in your token instead of BZE, whether it was created here or bridged in.
-9. [**Simple Solutions**](simple-solutions.md) — ready-made apps you can make your own.
+9. [**USDC and Retired Tokens**](usdc-and-retired-tokens.md) — why BeeZee's USDC is now USDC.inj, and what happens when a token is halted or its deposits close.
+10. [**Simple Solutions**](simple-solutions.md) — ready-made apps you can make your own.
 
 ## More on the way
 
