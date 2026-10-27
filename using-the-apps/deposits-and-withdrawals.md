@@ -27,6 +27,8 @@ Now and then an asset is wound down and BeeZee stops accepting new deposits of i
 
 Right now that applies to **USDC.n**. On the Deposit form, and on its asset page in the DEX, you'll see the notice **"USDC.n is being retired"**: it's USDC issued on the Noble chain, which Circle is retiring, so new deposits to BeeZee are closed. You can still withdraw it to Noble, trade it and send it.
 
+If you send a closed asset to BeeZee anyway, for example straight from a wallet on Noble, BeeZee refuses the transfer and the tokens are returned to your address on the sending chain. The refund is automatic but, like any cross-chain transfer, can take a few minutes. Withdrawals are never affected: you can always send the asset back out. The [USDC and Retired Tokens](../overview/features/usdc-and-retired-tokens.md) page explains the move from USDC.n to USDC.inj and what to do if you still hold USDC.n.
+
 ## Routes beyond the built-in connections
 
 The wallet panel handles the chains that connect to BeeZee directly. For routes beyond those, the app hands off to an external bridging tool that can find a path — you carry on there, then come back to BeeZee when you're done.
