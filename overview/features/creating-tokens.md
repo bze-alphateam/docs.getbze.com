@@ -24,6 +24,8 @@ As a token creator you can:
 * **Send to a list of wallets** — pay contest winners, a snapshot or a spreadsheet of addresses in one go.
 * **Run campaigns** — simple rewards with an end date, for example to reward the people who add liquidity to your pool.
 * **Get your logo in every wallet** — Token Factory walks you through listing your token in the Cosmos Chain Registry.
+* **Give it its own look** — a brand kit (a font plus colours for light and dark mode) that apps like Communities use to draw your token's page.
+* **Fix the supply for good** _(optional, permanent)_ — renounce admin so nobody can ever mint more, and everyone sees a fixed supply.
 * **Reward traders _(coming soon)_** — reward the people who trade your token in a chosen market.
 * **Pay fees in your own token** — set up a liquidity pool between your token and BZE, and your token can be used to pay the network's fees.
 
