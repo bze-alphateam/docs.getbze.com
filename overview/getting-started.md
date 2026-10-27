@@ -41,3 +41,5 @@ Each app has its own guide:
 * [**Token Factory**](../apps/token-factory/README.md) — create your own token in seconds, no coding required.
 * [**Burner**](../apps/burner/README.md) — take part in community token burns and burning raffles.
 * [**Communities**](../apps/communities/README.md) — discover and support projects built on BeeZee.
+
+Moving between them is easy: every app's header has an **Apps** menu (inside the menu button on a phone) that links to the others: the website, DEX, Staking, Burner, Factory, Communities and the Explorer. Each one opens in a new tab.

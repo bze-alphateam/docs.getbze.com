@@ -14,13 +14,13 @@ layout:
 
 # Making It Official
 
-Two things help people recognise and trust your token: its **logo in every wallet**, and a **brand kit** that gives it its own look. Both start from your token's page in Token Factory (see [Managing Your Token](managing-your-token.md)), and both are suggested on the Done screen right after you create a token.
+Two things help people recognise and trust your token: its **logo in every wallet**, and a **brand kit** that gives it its own look. Both start from your token's page in Token Factory, under **Details and look** (see [Managing Your Token](managing-your-token.md)). The registry guide is also suggested on the Done screen right after you create a token, and the brand kit on the guide's own Done screen.
 
 ## Get your logo in every wallet
 
 Wallets, explorers and DEXes across the Cosmos world read token names and logos from one public list: the **Cosmos Chain Registry** on GitHub. Without an entry, most wallets show your token as a long code with no logo, which looks like a scam even when it isn't. Being listed is free, and nothing is signed: you prepare the files in Token Factory and open a request on GitHub, and the registry's maintainers review it.
 
-Open the guide from your token's page: **Get your logo in every wallet** in its details, or the **Logo in wallets** setup chip. The guide has five steps and keeps your progress in this browser:
+Open the guide from your token's page: **View** on **Get your logo in every wallet**, under **Details and look**. The guide has five steps and keeps your progress in this browser:
 
 1. **Logo: prepare your logo.** Drop your file in and it's checked right in your browser (nothing is uploaded): **PNG or SVG** only (SVG is preferred, it stays sharp at every size), **square**, **under 250 KB**, and a lower-case file name. A JPG is refused, even renamed to .png, and an SVG must be real vector art with under 1,000 shapes, not a picture wrapped in SVG. You see a preview on a light and a dark wallet.
 2. **Links: add your links (optional).** Your website and X (Twitter), as full `https://` links.
@@ -33,17 +33,23 @@ Open the guide from your token's page: **Get your logo in every wallet** in its 
 {% endhint %}
 
 {% hint style="info" %}
-**Stuck?** The guide lists the most common reasons a request is sent back (not square, over 250 KB, a renamed JPG, an upper-case file name, a missing comma in the list) and links to the BeeZee community on Telegram and Discord.
+**Stuck?** The most common reasons a request is sent back are a logo that isn't square, is over 250 KB, is a renamed JPG or has an upper-case file name, and a missing comma in the list. The guide links to the BeeZee community on Telegram and Discord if you need help.
 {% endhint %}
 
 ## Give it a look: the brand kit
 
 A **brand kit** gives your token its own look on its page in the [Communities app](../communities/README.md): a **font** (Inter, Roboto, Poppins, Montserrat, Space Grotesk or JetBrains Mono) and **eight colours**, a background, text, primary and secondary colour for both light and dark mode.
 
-Set it from **Details and look** on your token's page. A live preview shows the result before you save it. It's public, and apps that support brand kits pick it up right away. Only the token's admin can set, edit or remove it.
+Your token's page shows the brand kit small under **Details and look**. As the admin, select **Edit brand kit** to open the brand kit editor, a page of its own:
+
+* **Start from a template**: about twenty ready-made kits, filtered by mood (Neutral, Warm, Cool, Vivid, Pastel, Earthy, High contrast). One click sets all eight colours and the font, and **Undo** takes it back. A token without a brand kit starts from a default template.
+* Adjust the font and any colour yourself; fields you changed from the template are marked.
+* A **Live preview** shows the result in light and dark mode.
+
+Select **Save brand kit** and confirm in your wallet. It's public, and apps that support brand kits pick it up right away. Anyone can open the editor and try templates, but only the token's admin can save, edit or remove it (**Remove brand kit** is on the token's page).
 
 {% hint style="warning" %}
-**Set it while you are the admin.** If admin is ever renounced, the brand kit is frozen as it is: a brand kit that was never set can never be added. See [Permissions](managing-your-token.md#permissions).
+**Set it while you are the admin.** If admin is ever renounced, the brand kit is frozen as it is and the editor can no longer save it: a brand kit that was never set can never be added. See [Permissions](managing-your-token.md#permissions).
 {% endhint %}
 
 {% hint style="success" %}

@@ -19,12 +19,14 @@ Staking is the simplest way to put your BZE to work. By staking, you help secure
 For example, delegate your BZE to a validator you trust in the [Staking app](https://staking.getbze.com) and rewards start adding up automatically. You can claim them, or stake them again to compound, whenever it suits you.
 
 {% hint style="info" %}
-**Unstaking takes a while.** After you unstake, your coins stay locked for the unbonding period before they return to your wallet. Its length is set by the network and can change through governance, and the Staking app shows the current value. If you only want to switch validators, you can **redelegate** instead, without the wait.
+**Unstaking takes a while.** After you unstake, your coins stay locked for the unbonding period before they return to your wallet. Its length is set by the network and can change through governance, and the Staking app shows the current value. If you only want to switch validators, you can **move** your stake instead, without the wait.
 {% endhint %}
 
 {% hint style="warning" %}
 **Choose reliable validators.** A validator that stays offline too long or breaks the network's rules can be penalised: it stops earning rewards, and a small part of the BZE staked with it, including yours, can be lost. Back well-run validators, spread your stake if you like, and move it if the app warns that a validator is **Not Earning Rewards**.
 {% endhint %}
+
+Staking also gives you a voice. Your staked BZE is your voting power on the proposals that change the network, and you can vote on them in the Staking app's **Governance** section. If you don't vote, your validator's vote counts for the BZE you staked with them.
 
 If you ever notice a mismatch between these docs and the live network, please [let us know](https://discord.gg/wb68JV3QhZ).
 
@@ -36,4 +38,8 @@ If you ever notice a mismatch between these docs and the live network, please [l
 
 {% content-ref url="../../apps/staking/managing-your-stake.md" %}
 [managing-your-stake.md](../../apps/staking/managing-your-stake.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../apps/staking/governance-voting.md" %}
+[governance-voting.md](../../apps/staking/governance-voting.md)
 {% endcontent-ref %}

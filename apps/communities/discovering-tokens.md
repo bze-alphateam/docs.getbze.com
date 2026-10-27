@@ -20,7 +20,7 @@ The [Communities app](https://communities.getbze.com) opens on the **Token direc
 
 Know what you're looking for? Type in the search box at the top. It matches a token's **name**, its **ticker** (like $PAGE or $GUILD), or its full **token ID**, the long code that starts with `factory/`. Results update as you type, and **Clear** empties the box again.
 
-If nothing matches, the directory says so and offers **Clear search**, so you're one click away from the full list.
+If nothing matches, the directory says so and offers **Clear search**, so you're one click away from the full list. When a filter leaves nothing to show, **Show all tokens** brings everything back.
 
 ## Filtering and sorting
 
