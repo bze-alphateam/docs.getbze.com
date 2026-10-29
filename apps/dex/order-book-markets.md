@@ -18,7 +18,7 @@ Swapping is quick, but sometimes you want to name your own price and wait for th
 
 ## Finding a market
 
-Open the **Exchange** tab to browse every trading pair on BeeZee. You can search by token, and each row shows the **24h Price** (the current price and its 24-hour change) and the **24h Volume**, so you can see what's active at a glance. A **Verified** badge marks pairs where both tokens have been checked, which helps you tell a well-known token from a look-alike; verified pairs are listed first. Pick a pair to open its market.
+Open the **Exchange** tab to browse every trading pair on BeeZee. You can search by token, and each row shows the **24h Price** (the current price and its 24-hour change) and the **24h Volume**, so you can see what's active at a glance. A **Verified** badge marks pairs where both tokens have been checked, which helps you tell a well-known token from a look-alike; verified pairs are listed first. The badge isn't an endorsement; see [The Verified Badge](../../overview/features/verified-badge.md) for what it means. Pick a pair to open its market.
 
 ## On a market page
 

@@ -46,7 +46,7 @@ For Token Factory tokens, the supply notice is the single most useful signal on 
 Token Factory shows the same thing as a badge: **Mintable** matches Centralized Supply Control, and **Fixed supply** matches Decentralized Supply. See [Managing Your Token](../token-factory/managing-your-token.md) for how a creator locks the supply.
 
 {% hint style="warning" %}
-A **Verified** badge is a helpful signal, not a guarantee of value. An unverified token isn't necessarily bad, but it's worth a closer look. Check the creator, whether the supply is fixed, the trading volume and where it's paired before you commit, and never trade more than you're comfortable with.
+A **Verified** badge is a helpful signal, not a guarantee of value. An unverified token isn't necessarily bad, but it's worth a closer look. Check the creator, whether the supply is fixed, the trading volume and where it's paired before you commit, and never trade more than you're comfortable with. [The Verified Badge](../../overview/features/verified-badge.md) explains how a token gets the badge and what it does and doesn't mean.
 {% endhint %}
 
 {% hint style="success" %}

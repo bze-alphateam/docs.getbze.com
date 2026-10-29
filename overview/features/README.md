@@ -25,7 +25,8 @@ BeeZee brings together everything you need to use, create, and grow — all in o
 7. [**Building Communities**](building-communities.md) — everything a project needs to run its own token.
 8. [**Any Token as a Fee Token**](fee-token.md) — let users pay fees in your token instead of BZE, whether it was created here or bridged in.
 9. [**USDC and Retired Tokens**](usdc-and-retired-tokens.md) — why BeeZee's USDC is now USDC.inj, and what happens when a token is halted or its deposits close.
-10. [**Simple Solutions**](simple-solutions.md) — ready-made apps you can make your own.
+10. [**The Verified Badge**](verified-badge.md) — what the badge on tokens and markets means, how a token gets it, and what it doesn't promise.
+11. [**Simple Solutions**](simple-solutions.md) — ready-made apps you can make your own.
 
 ## More on the way
 
