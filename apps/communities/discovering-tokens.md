@@ -27,7 +27,7 @@ If nothing matches, the directory says so and offers **Clear search**, so you're
 Under the search box, a row of filters narrows the list:
 
 * **All**: every community token.
-* **Verified**: only the tokens that carry the verified badge.
+* **Verified**: only the tokens that carry the verified badge (see [The Verified Badge](../../overview/features/verified-badge.md) for what it means).
 * **Staking rewards**: tokens you can stake to earn something, either in a holders pool or in a staking program.
 * **Tradable**: tokens that sit in at least one liquidity pool, so you can swap into them.
 

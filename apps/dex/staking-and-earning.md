@@ -30,7 +30,7 @@ Once you're staking somewhere, have tokens unlocking or have rewards waiting, **
 
 * **Search by token** finds the rewards that stake or pay a token (BZE staking hides while you search).
 * The **All**, **Simple**, **Compounded** and **LP** buttons pick a kind; **LP** shows the rewards for liquidity pool shares, the [Boost Rewards](liquidity-pools.md#boost-rewards) of the pools.
-* **Verified only** (on to start with) hides rewards whose tokens haven't been verified, and **Show finished** brings back simple rewards that have ended.
+* **Verified only** (on to start with) hides rewards whose tokens haven't been verified (see [The Verified Badge](../../overview/features/verified-badge.md)), and **Show finished** brings back simple rewards that have ended.
 
 Each row is tagged **Native**, **Simple** or **Compounded**, carries a **Verified** tag where its tokens have been checked, and says under its name how long the **Unlock** takes (or **instant**), the minimum stake if there is one, and whether it's running. The columns show what you **Earn**, the estimated **APR** (a yearly rate, based on current conditions), what it pays out **Daily**, its **Total staked**, and how many of its days have been paid out (**Ongoing** for rewards with no end date). Rewards you're already in are highlighted and marked **staked**.
 

@@ -13,6 +13,7 @@
     * [Building Communities](overview/features/building-communities.md)
     * [Any Token as a Fee Token](overview/features/fee-token.md)
     * [USDC and Retired Tokens](overview/features/usdc-and-retired-tokens.md)
+    * [The Verified Badge](overview/features/verified-badge.md)
     * [Simple Solutions](overview/features/simple-solutions.md)
   * [What's New](overview/whats-new.md)
   * [CoinTrunk Project](overview/cointrunk/README.md)
