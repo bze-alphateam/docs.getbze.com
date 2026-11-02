@@ -29,6 +29,14 @@ Right now that applies to **USDC.n**. On the Deposit form, and on its asset page
 
 If you send a closed asset to BeeZee anyway, for example straight from a wallet on Noble, BeeZee refuses the transfer and the tokens are returned to your address on the sending chain. The refund is automatic but, like any cross-chain transfer, can take a few minutes. Withdrawals are never affected: you can always send the asset back out. The [USDC and Retired Tokens](../overview/features/usdc-and-retired-tokens.md) page explains the move from USDC.n to USDC.inj and what to do if you still hold USDC.n.
 
+## Transfer limits
+
+BZE moving between BeeZee and another chain has a daily limit per connection, a safety net you will rarely notice. A transfer over the limit is never lost: a withdrawal fails before anything leaves your wallet, and a deposit is refunded on the chain you sent from.
+
+{% content-ref url="transfer-limits.md" %}
+[transfer-limits.md](transfer-limits.md)
+{% endcontent-ref %}
+
 ## Routes beyond the built-in connections
 
 The wallet panel handles the chains that connect to BeeZee directly. For routes beyond those, the **Use Skip.go** button opens Skip.go, an external bridging tool that can find a path — you carry on there, then come back to BeeZee when you're done.

@@ -32,6 +32,7 @@
 * [Balances & Sending](using-the-apps/balances-and-sending.md)
 * [Buying BZE](using-the-apps/buying-bze.md)
 * [Deposits & Withdrawals](using-the-apps/deposits-and-withdrawals.md)
+* [Transfer Limits](using-the-apps/transfer-limits.md)
 * [Fees & Settings](using-the-apps/fees-and-settings.md)
 
 ## Our Apps
