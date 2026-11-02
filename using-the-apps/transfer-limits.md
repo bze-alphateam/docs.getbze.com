@@ -19,7 +19,7 @@ Moving BZE between BeeZee and another chain has a daily limit. It is a safety ne
 ## The daily limit
 
 * **BZE:** each connection to another chain has its own limit of **2% per day of all the BZE that exists**, in each direction. Sending BZE to Osmosis and bringing BZE in from Osmosis are two separate budgets, and so are Osmosis and every other connected chain.
-* **Other tokens** (USDC, ATOM and the rest) have **no limit yet**. The network can add one by governance once enough of a token lives on BeeZee.
+* **Other tokens** (USDC, ATOM and the rest) have **no limit yet**. Governance can add a limit for another token later.
 * **USDC.n** (USDC from Noble) still cannot be brought in, as before. You can still send it back out. See [USDC and Retired Tokens](../overview/features/usdc-and-retired-tokens.md).
 * Limits **reset at midnight UTC**.
 
@@ -38,7 +38,7 @@ Then you can try again after midnight UTC, or split the amount into smaller tran
 
 ## Why there are limits
 
-If another network connected to BeeZee is hacked, or BeeZee itself has a bug, the damage in one day is capped instead of a whole supply leaving at once. That buys time to react. Osmosis and other large Cosmos chains use the same mechanism.
+If another network connected to BeeZee is hacked, or BeeZee itself has a bug, the damage in one day is capped instead of a whole supply leaving at once. That buys time to react.
 
 ## Who can change the limits
 
